@@ -1,0 +1,165 @@
+================================================================================
+ATSA DATA QUALITY REPORT
+Generated: 2026-10-20 16:22:51
+================================================================================
+
+OUTPUT FILES
+----------------------------------------
+
+FILE_INVENTORY.csv
+  File discovery index
+  Rows: 151  Columns: ['file_name', 'rel_path', 'category', 'extension', 'size_mb', 'status']
+
+registrations_clean.csv
+  VAHAN registration data (long format)
+  Rows: 7,534  Columns: ['month_id', 'location_id', 'fuel_group', 'data_type', 'count']
+
+gdpi_clean.csv
+  IRDAI Handbook state-wise GDPI (all states, all FY)
+  Rows: 4,829  Columns: ['fy_id', 'state', 'segment', 'premium_crore']
+
+gdpi_maharashtra.csv
+  IRDAI Handbook Maharashtra GDPI only
+  Rows: 132  Columns: ['fy_id', 'state', 'segment', 'premium_crore']
+
+gdpi_segment_wise.csv
+  IRDAI segment-wise insurer-level GDPI
+  Rows: 352  Columns: ['fy_id', 'period_upto', 'insurer', 'Fire', 'Marine_Total', 'Marine__Cargo', 'Marine__Hull', 'Engineering', 'Motor_Total', 'Motor_OD', 'Motor_TP', 'Health', 'Aviation', 'Liability', 'P.A.', 'All_Other_Misc_(Crop_Insurance_+_Credit_Guarantee+All_other_misc)', 'Grand_Total', 'Growth_%', 'Market_%', 'Accretion']
+
+fuel_prices_clean.csv
+  PPAC fortnightly petroleum prices
+  Rows: 223  Columns: ['date', 'period_from', 'period_to', 'crude_oil_usd_per_bbl', 'exchange_rate_inr_per_usd', 'crude_oil_inr_per_bbl', 'diesel_under_recovery_inr_per_litre', 'kerosene_under_recovery_inr_per_litre', 'lpg_under_recovery_inr_per_cylinder']
+
+retail_prices_clean.csv
+  State-level retail petrol/diesel snapshot
+  Rows: 38  Columns: ['sl_no', 'state_ut', 'reference_city', 'petrol_price_inr', 'diesel_price_inr']
+
+
+TRANSFORMATIONS APPLIED
+----------------------------------------
+• Registration file processed: MH14_PimpriChinchwad_Monthly_FuelType_Registrations_2017.xlsx
+• Registration file processed: MH14_PimpriChinchwad_Monthly_FuelType_Registrations_2018.xlsx
+• Registration file processed: MH14_PimpriChinchwad_Monthly_FuelType_Registrations_2019.xlsx
+• Registration file processed: MH14_PimpriChinchwad_Monthly_FuelType_Registrations_2020.xlsx
+• Registration file processed: MH14_PimpriChinchwad_Monthly_FuelType_Registrations_2021.xlsx
+• Registration file processed: MH14_PimpriChinchwad_Monthly_FuelType_Registrations_2022.xlsx
+• Registration file processed: MH14_PimpriChinchwad_Monthly_FuelType_Registrations_2023.xlsx
+• Registration file processed: MH14_PimpriChinchwad_Monthly_FuelType_Registrations_2024.xlsx
+• Registration file processed: MH14_PimpriChinchwad_Monthly_FuelType_Registrations_2025.xlsx
+• Registration file processed: MH14_PimpriChinchwad_Monthly_FuelType_Registrations_2026.xlsx
+• Registration file processed: MH1_MumbaiCentral_Monthly_FuelType_Registration_2017.xlsx
+• Registration file processed: MH1_MumbaiCentral_Monthly_FuelType_Registration_2018.xlsx
+• Registration file processed: MH1_MumbaiCentral_Monthly_FuelType_Registration_2019.xlsx
+• Registration file processed: MH1_MumbaiCentral_Monthly_FuelType_Registration_2020.xlsx
+• Registration file processed: MH1_MumbaiCentral_Monthly_FuelType_Registration_2021.xlsx
+• Registration file processed: MH1_MumbaiCentral_Monthly_FuelType_Registration_2022.xlsx
+• Registration file processed: MH1_MumbaiCentral_Monthly_FuelType_Registration_2023.xlsx
+• Registration file processed: MH1_MumbaiCentral_Monthly_FuelType_Registration_2024.xlsx
+• Registration file processed: MH1_MumbaiCentral_Monthly_FuelType_Registration_2025.xlsx
+• Registration file processed: MH1_MumbaiCentral_Monthly_FuelType_Registration_2026.xlsx
+• Registration file processed: MH20_Aurangabad_Monthly_FuelType_Registrations_2017.xlsx
+• Registration file processed: MH20_Aurangabad_Monthly_FuelType_Registrations_2018.xlsx
+• Registration file processed: MH20_Aurangabad_Monthly_FuelType_Registrations_2019.xlsx
+• Registration file processed: MH20_Aurangabad_Monthly_FuelType_Registrations_2020.xlsx
+• Registration file processed: MH20_Aurangabad_Monthly_FuelType_Registrations_2021.xlsx
+• Registration file processed: MH20_Aurangabad_Monthly_FuelType_Registrations_2022.xlsx
+• Registration file processed: MH20_Aurangabad_Monthly_FuelType_Registrations_2023.xlsx
+• Registration file processed: MH_Annual_FuelType_Registrations_2017-2021.xlsx
+• Registration file processed: MH_Annual_FuelType_Registrations_2022-2026.xlsx
+• Registration file processed: MH_Monthly_FuelType_Registrations_2017.xlsx
+• Registration file processed: MH_Monthly_FuelType_Registrations_2018.xlsx
+• Registration file processed: MH_Monthly_FuelType_Registrations_2019.xlsx
+• Registration file processed: MH_Monthly_FuelType_Registrations_2020.xlsx
+• Registration file processed: MH_Monthly_FuelType_Registrations_2021.xlsx
+• Registration file processed: MH_Monthly_FuelType_Registrations_2022.xlsx
+• Registration file processed: MH_Monthly_FuelType_Registrations_2023.xlsx
+• Registration file processed: MH_Monthly_FuelType_Registrations_2024.xlsx
+• Registration file processed: MH_Monthly_FuelType_Registrations_2025.xlsx
+• Registration file processed: MH_Monthly_FuelType_Registrations_2026.xlsx
+• Registration file processed: Nashik_MH15_Monthly_FuelType_Registrations_2017.xlsx
+• Registration file processed: Nashik_MH15_Monthly_FuelType_Registrations_2018.xlsx
+• Registration file processed: Nashik_MH15_Monthly_FuelType_Registrations_2019.xlsx
+• Registration file processed: Nashik_MH15_Monthly_FuelType_Registrations_2020.xlsx
+• Registration file processed: Nashik_MH15_Monthly_FuelType_Registrations_2021.xlsx
+• Registration file processed: Nashik_MH15_Monthly_FuelType_Registrations_2022.xlsx
+• Registration file processed: Nashik_MH15_Monthly_FuelType_Registrations_2023.xlsx
+• Registration file processed: Nashik_MH15_Monthly_FuelType_Registrations_2024.xlsx
+• Registration file processed: Nashik_MH15_Monthly_FuelType_Registrations_2025.xlsx
+• Registration file processed: Nashik_MH15_Monthly_FuelType_Registrations_2026.xlsx
+• Registration file processed: Pune_MH12_Monthly_FuelType_Registrations_2017.xlsx
+• Registration file processed: Pune_MH12_Monthly_FuelType_Registrations_2018.xlsx
+• Registration file processed: Pune_MH12_Monthly_FuelType_Registrations_2019.xlsx
+• Registration file processed: Pune_MH12_Monthly_FuelType_Registrations_2020.xlsx
+• Registration file processed: Pune_MH12_Monthly_FuelType_Registrations_2021.xlsx
+• Registration file processed: Pune_MH12_Monthly_FuelType_Registrations_2022.xlsx
+• Registration file processed: Pune_MH12_Monthly_FuelType_Registrations_2023.xlsx
+• Registration file processed: Pune_MH12_Monthly_FuelType_Registrations_2024.xlsx
+• Registration file processed: Pune_MH12_Monthly_FuelType_Registrations_2025.xlsx
+• Registration file processed: Pune_MH12_Monthly_FuelType_Registrations_2026.xlsx
+• Registration file processed: Thane_MH4_Monthly_FuelType_Registrations_2019.xlsx
+• Registration file processed: Thane_MH4_Monthly_FuelType_Registrations_2020.xlsx
+• Registration file processed: Thane_MH4_Monthly_FuelType_Registrations_2021.xlsx
+• Registration file processed: Thane_MH4_Monthly_FuelType_Registrations_2022.xlsx
+• Registration file processed: Thane_MH4_Monthly_FuelType_Registrations_2023.xlsx
+• Registration file processed: Thane_MH4_Monthly_FuelType_Registrations_2024.xlsx
+• Registration file processed: Thane_MH4_Monthly_FuelType_Registrations_2025.xlsx
+• Registration file processed: Thane_MH4_Monthly_FuelType_Registrations_2026.xlsx
+• Registration file processed: Vashi_MH43_Monthly_FuelType_Registrations_2019.xlsx
+• Registration file processed: Vashi_MH43_Monthly_FuelType_Registrations_2020.xlsx
+• Registration file processed: Vashi_MH43_Monthly_FuelType_Registrations_2021.xlsx
+• Registration file processed: Vashi_MH43_Monthly_FuelType_Registrations_2022.xlsx
+• Registration file processed: Vashi_MH43_Monthly_FuelType_Registrations_2023.xlsx
+• Registration file processed: Vashi_MH43_Monthly_FuelType_Registrations_2024.xlsx
+• Registration file processed: Vashi_MH43_Monthly_FuelType_Registrations_2025.xlsx
+• Registration file processed: Vashi_MH43_Monthly_FuelType_Registrations_2026.xlsx
+• Registrations: 8,263 raw → 7,534 after aggregation
+• GDPI: 4,829 rows extracted
+• Segment report: Segment wise report August 2026.xlsx (FY 2026-27, upto August 2026)
+• Segment report: Segment wise report December 2024.xlsx (FY 2024-25, upto December 2024)
+• Segment report: Segment wise report December 2025.xlsx (FY 2025-26, upto December 2025)
+• Segment report: Segment wise report September 2026.xlsx (FY 2026-27, upto September 2026)
+• Fuel prices: 223 fortnightly observations (PPAC)
+• Retail prices: 38 states/UTs in snapshot (Rajya Sabha data)
+
+
+FUEL TYPE STANDARDIZATION
+----------------------------------------
+  PETROL / PETROL(E20) / PETROL E20                  → Petrol
+  PETROL/CNG / PETROL(E20)/CNG                       → Petrol-CNG
+  PETROL/LPG / PETROL(E20)/LPG                       → Petrol-LPG
+  PETROL/HYBRID / PETROL/HYBRID/CNG                  → Petrol-Hybrid
+  DIESEL                                             → Diesel
+  DIESEL/HYBRID                                      → Diesel-Hybrid
+  CNG ONLY / HCNG                                    → CNG
+  LPG ONLY                                           → LPG
+  ELECTRIC(BOV)                                      → Electric-BOV
+  PURE EV                                            → Pure EV
+  PLUG-IN HYBRID EV                                  → PHEV
+  STRONG HYBRID EV                                   → Strong Hybrid EV
+  ETHANOL(E100)                                      → Ethanol
+
+
+NUMBER CLEANING
+----------------------------------------
+  '3,29,605' → 329605 (Indian comma format removed)
+  Non-breaking spaces (\xa0) stripped from all text
+  TOTAL columns excluded from row-level extraction
+  Duplicate (month_id, location_id, fuel_group) rows summed
+
+
+ISSUES & WARNINGS
+----------------------------------------
+  WARNING: ERROR in registrations_clean.csv: openpyxl does not support .csv file format, please check you can open it with Excel first. Supported formats are: .xlsx,.xlsm,.xltx,.xltm
+  WARNING: Segment report error in gdpi_segment_wise.csv: openpyxl does not support .csv file format, please check you can open it with Excel first. Supported formats are: .xlsx,.xlsm,.xltx,.xltm
+
+
+REGISTRATION COVERAGE BY LOCATION
+----------------------------------------
+  MH-ALL              : 118 month-entries | years: 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
+  MH-AURANGABAD       :  84 month-entries | years: 2017, 2018, 2019, 2020, 2021, 2022, 2023
+  MH-MUMBAI           : 118 month-entries | years: 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
+  MH-NASHIK           : 118 month-entries | years: 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
+  MH-PIMPRI           : 118 month-entries | years: 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
+  MH-PUNE             : 118 month-entries | years: 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
+  MH-THANE            :  94 month-entries | years: 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
+  MH-VASHI            :  94 month-entries | years: 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026

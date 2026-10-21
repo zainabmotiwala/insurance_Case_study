@@ -1,0 +1,10 @@
+Series,ADF_Stat,ADF_p,ADF_5%_Crit,ADF_Result,KPSS_Stat,KPSS_p,KPSS_5%_Crit,KPSS_Result
+Total Registrations (Levels),0.5,0.9849,-2.89,Non-Stationary,0.798,0.01,0.463,Non-Stationary
+Total Registrations (First Difference),-4.782,0.0001,-2.89,Stationary (p<0.05),0.093,0.1,0.463,Stationary (p>0.05)
+Total Registrations (Seasonal Diff: 12m),-5.735,0.0,-2.89,Stationary (p<0.05),0.88,0.01,0.463,Non-Stationary
+Petrol Standard (Levels),-0.558,0.8801,-2.89,Non-Stationary,0.488,0.0443,0.463,Non-Stationary
+Petrol Standard (First Difference),-4.236,0.0006,-2.89,Stationary (p<0.05),0.111,0.1,0.463,Stationary (p>0.05)
+Diesel (Levels),-0.972,0.7632,-2.89,Non-Stationary,0.427,0.0655,0.463,Stationary (p>0.05)
+Diesel (First Difference),-4.022,0.0013,-2.89,Stationary (p<0.05),0.031,0.1,0.463,Stationary (p>0.05)
+Electric BOV + Pure EV (Levels),1.508,0.9976,-2.89,Non-Stationary,1.641,0.01,0.463,Non-Stationary
+Electric BOV + Pure EV (First Difference),-0.571,0.8775,-2.89,Non-Stationary,0.368,0.0911,0.463,Stationary (p>0.05)

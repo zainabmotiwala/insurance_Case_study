@@ -1,0 +1,130 @@
+# ReportTable Files Renaming Mapping
+# Complete mapping of all reportTable files to standardized descriptive filenames
+
+# ==============================================================================
+# Maharashtra-wide Annual Files
+# ==============================================================================
+reportTable.xlsx -> MH_Annual_FuelType_Registrations_2022-2026.xlsx
+reportTable (1).xlsx -> MH_Annual_FuelType_Registrations_2017-2021.xlsx
+
+# ==============================================================================
+# Maharashtra-wide Monthly Files (2017-2026)
+# ==============================================================================
+reportTable (2).xlsx -> MH_Monthly_FuelType_Registrations_2017.xlsx
+reportTable (3).xlsx -> MH_Monthly_FuelType_Registrations_2018.xlsx
+reportTable (4).xlsx -> MH_Monthly_FuelType_Registrations_2019.xlsx
+reportTable (5).xlsx -> MH_Monthly_FuelType_Registrations_2020.xlsx
+reportTable (6).xlsx -> MH_Monthly_FuelType_Registrations_2021.xlsx
+reportTable (7).xlsx -> MH_Monthly_FuelType_Registrations_2022.xlsx
+reportTable (8).xlsx -> MH_Monthly_FuelType_Registrations_2023.xlsx
+reportTable (9).xlsx -> MH_Monthly_FuelType_Registrations_2024.xlsx
+reportTable (10).xlsx -> MH_Monthly_FuelType_Registrations_2025.xlsx
+reportTable (11).xlsx -> MH_Monthly_FuelType_Registrations_2026.xlsx
+
+# ==============================================================================
+# Regional Monthly Files - Vashi (MH-43)
+# ==============================================================================
+reportTable (19).xlsx -> Vashi_MH43_Monthly_FuelType_Registrations_2019.xlsx
+reportTable (18).xlsx -> Vashi_MH43_Monthly_FuelType_Registrations_2020.xlsx
+reportTable (17).xlsx -> Vashi_MH43_Monthly_FuelType_Registrations_2021.xlsx
+reportTable (16).xlsx -> Vashi_MH43_Monthly_FuelType_Registrations_2022.xlsx
+reportTable (15).xlsx -> Vashi_MH43_Monthly_FuelType_Registrations_2023.xlsx
+reportTable (14).xlsx -> Vashi_MH43_Monthly_FuelType_Registrations_2024.xlsx
+reportTable (13).xlsx -> Vashi_MH43_Monthly_FuelType_Registrations_2025.xlsx
+reportTable (12).xlsx -> Vashi_MH43_Monthly_FuelType_Registrations_2026.xlsx
+
+# ==============================================================================
+# Regional Monthly Files - Thane (MH-4)
+# ==============================================================================
+reportTable (20).xlsx -> Thane_MH4_Monthly_FuelType_Registrations_2019.xlsx
+reportTable (21).xlsx -> Thane_MH4_Monthly_FuelType_Registrations_2020.xlsx
+reportTable (22).xlsx -> Thane_MH4_Monthly_FuelType_Registrations_2021.xlsx
+reportTable (23).xlsx -> Thane_MH4_Monthly_FuelType_Registrations_2022.xlsx
+reportTable (24).xlsx -> Thane_MH4_Monthly_FuelType_Registrations_2023.xlsx
+reportTable (25).xlsx -> Thane_MH4_Monthly_FuelType_Registrations_2024.xlsx
+reportTable (26).xlsx -> Thane_MH4_Monthly_FuelType_Registrations_2025.xlsx
+reportTable (27).xlsx -> Thane_MH4_Monthly_FuelType_Registrations_2026.xlsx
+
+# ==============================================================================
+# Regional Monthly Files - Pimpri Chinchwad (MH-14)
+# ==============================================================================
+reportTable (37).xlsx -> MH14_PimpriChinchwad_Monthly_FuelType_Registrations_2017.xlsx
+reportTable (36).xlsx -> MH14_PimpriChinchwad_Monthly_FuelType_Registrations_2018.xlsx
+reportTable (35).xlsx -> MH14_PimpriChinchwad_Monthly_FuelType_Registrations_2019.xlsx
+reportTable (34).xlsx -> MH14_PimpriChinchwad_Monthly_FuelType_Registrations_2020.xlsx
+reportTable (33).xlsx -> MH14_PimpriChinchwad_Monthly_FuelType_Registrations_2021.xlsx
+reportTable (32).xlsx -> MH14_PimpriChinchwad_Monthly_FuelType_Registrations_2022.xlsx
+reportTable (31).xlsx -> MH14_PimpriChinchwad_Monthly_FuelType_Registrations_2023.xlsx
+reportTable (30).xlsx -> MH14_PimpriChinchwad_Monthly_FuelType_Registrations_2024.xlsx
+reportTable (29).xlsx -> MH14_PimpriChinchwad_Monthly_FuelType_Registrations_2025.xlsx
+reportTable (28).xlsx -> MH14_PimpriChinchwad_Monthly_FuelType_Registrations_2026.xlsx
+
+# ==============================================================================
+# Regional Monthly Files - Nashik (MH-15)
+# ==============================================================================
+reportTable (38).xlsx -> Nashik_MH15_Monthly_FuelType_Registrations_2017.xlsx
+reportTable (39).xlsx -> Nashik_MH15_Monthly_FuelType_Registrations_2018.xlsx
+reportTable (40).xlsx -> Nashik_MH15_Monthly_FuelType_Registrations_2019.xlsx
+reportTable (41).xlsx -> Nashik_MH15_Monthly_FuelType_Registrations_2020.xlsx
+reportTable (42).xlsx -> Nashik_MH15_Monthly_FuelType_Registrations_2021.xlsx
+reportTable (43).xlsx -> Nashik_MH15_Monthly_FuelType_Registrations_2022.xlsx
+reportTable (44).xlsx -> Nashik_MH15_Monthly_FuelType_Registrations_2023.xlsx
+reportTable (45).xlsx -> Nashik_MH15_Monthly_FuelType_Registrations_2024.xlsx
+reportTable (46).xlsx -> Nashik_MH15_Monthly_FuelType_Registrations_2025.xlsx
+reportTable (47).xlsx -> Nashik_MH15_Monthly_FuelType_Registrations_2026.xlsx
+
+# ==============================================================================
+# Regional Monthly Files - Pune (MH-12)
+# ==============================================================================
+reportTable (57).xlsx -> Pune_MH12_Monthly_FuelType_Registrations_2017.xlsx
+reportTable (55).xlsx -> Pune_MH12_Monthly_FuelType_Registrations_2018.xlsx
+reportTable (56).xlsx -> Pune_MH12_Monthly_FuelType_Registrations_2019.xlsx
+reportTable (54).xlsx -> Pune_MH12_Monthly_FuelType_Registrations_2020.xlsx
+reportTable (53).xlsx -> Pune_MH12_Monthly_FuelType_Registrations_2021.xlsx
+reportTable (52).xlsx -> Pune_MH12_Monthly_FuelType_Registrations_2022.xlsx
+reportTable (51).xlsx -> Pune_MH12_Monthly_FuelType_Registrations_2023.xlsx
+reportTable (50).xlsx -> Pune_MH12_Monthly_FuelType_Registrations_2024.xlsx
+reportTable (49).xlsx -> Pune_MH12_Monthly_FuelType_Registrations_2025.xlsx
+reportTable (48).xlsx -> Pune_MH12_Monthly_FuelType_Registrations_2026.xlsx
+
+# ==============================================================================
+# Regional Monthly Files - Aurangabad/Chhatrapati Sambhajinagar (MH-20)
+# ==============================================================================
+reportTable (72).xlsx -> MH20_Aurangabad_Monthly_FuelType_Registrations_2017.xlsx
+reportTable (60).xlsx -> MH20_Aurangabad_Monthly_FuelType_Registrations_2018.xlsx
+reportTable (61).xlsx -> MH20_Aurangabad_Monthly_FuelType_Registrations_2019.xlsx
+reportTable (68).xlsx -> MH20_Aurangabad_Monthly_FuelType_Registrations_2020.xlsx
+reportTable (63).xlsx -> MH20_Aurangabad_Monthly_FuelType_Registrations_2021.xlsx
+reportTable (64).xlsx -> MH20_Aurangabad_Monthly_FuelType_Registrations_2022.xlsx
+reportTable (65).xlsx -> MH20_Aurangabad_Monthly_FuelType_Registrations_2023.xlsx
+
+# ==============================================================================
+# Regional Monthly Files - Mumbai Central (MH-1)
+# ==============================================================================
+reportTable (73).xlsx -> MH1_MumbaiCentral_Monthly_FuelType_Registration_2017.xlsx
+reportTable (74).xlsx -> MH1_MumbaiCentral_Monthly_FuelType_Registration_2018.xlsx
+reportTable (75).xlsx -> MH1_MumbaiCentral_Monthly_FuelType_Registration_2019.xlsx
+reportTable (76).xlsx -> MH1_MumbaiCentral_Monthly_FuelType_Registration_2020.xlsx
+reportTable (77).xlsx -> MH1_MumbaiCentral_Monthly_FuelType_Registration_2021.xlsx
+reportTable (78).xlsx -> MH1_MumbaiCentral_Monthly_FuelType_Registration_2022.xlsx
+reportTable (79).xlsx -> MH1_MumbaiCentral_Monthly_FuelType_Registration_2023.xlsx
+reportTable (80).xlsx -> MH1_MumbaiCentral_Monthly_FuelType_Registration_2024.xlsx
+reportTable (81).xlsx -> MH1_MumbaiCentral_Monthly_FuelType_Registration_2025.xlsx
+reportTable (82).xlsx -> MH1_MumbaiCentral_Monthly_FuelType_Registration_2026.xlsx
+
+# ==============================================================================
+# Special Files - Two-wheeler specific Annual
+# ==============================================================================
+reportTable (83).xlsx -> AllIndia_TwoWheeler_VehicleCategoryGroup_FuelType_Annual_2026.xlsx
+reportTable (90).xlsx -> MH_TwoWheeler_VehicleCategoryByFuelType_Annual_2026.xlsx
+
+# ==============================================================================
+# Duplicate Files (Moved to duplicates/)
+# ==============================================================================
+reportTable (58).xlsx -> duplicates/MH20_Aurangabad_Monthly_FuelType_Registrations_2017_dup_reportTable58.xlsx (Duplicate of 2017)
+reportTable (59).xlsx -> duplicates/MH20_Aurangabad_Monthly_FuelType_Registrations_2017_dup_reportTable59.xlsx (Duplicate of 2017)
+reportTable (71).xlsx -> duplicates/MH20_Aurangabad_Monthly_FuelType_Registrations_2017_dup_reportTable71.xlsx (Duplicate of 2017)
+reportTable (62).xlsx -> duplicates/MH20_Aurangabad_Monthly_FuelType_Registrations_2020_dup_reportTable62.xlsx (Duplicate of 2020)
+reportTable (66).xlsx -> duplicates/MH20_Aurangabad_Monthly_FuelType_Registrations_2022_dup_reportTable66.xlsx (Duplicate of 2022)
+reportTable (67).xlsx -> duplicates/MH20_Aurangabad_Monthly_FuelType_Registrations_2021_dup_reportTable67.xlsx (Duplicate of 2021)
+reportTable (69).xlsx -> duplicates/MH20_Aurangabad_Monthly_FuelType_Registrations_2019_dup_reportTable69.xlsx (Duplicate of 2019)

@@ -1,0 +1,1541 @@
+month_id,date,year,month,location_id,geo_level,fuel_raw,fuel_group,reporting_window,count
+201701,2017-01-01,2017,1,MH-ALL,statewide,CNG ONLY,CNG,historical_training,84
+201701,2017-01-01,2017,1,MH-ALL,statewide,DIESEL,Diesel,historical_training,26326
+201701,2017-01-01,2017,1,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,historical_training,316
+201701,2017-01-01,2017,1,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,historical_training,70
+201701,2017-01-01,2017,1,MH-ALL,statewide,LPG ONLY,LPG,historical_training,2
+201701,2017-01-01,2017,1,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,historical_training,1186
+201701,2017-01-01,2017,1,MH-ALL,statewide,PETROL,Petrol,historical_training,150293
+201701,2017-01-01,2017,1,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,historical_training,5783
+201701,2017-01-01,2017,1,MH-ALL,statewide,PETROL(E20)/CNG,Petrol-E20-CNG,historical_training,2
+201701,2017-01-01,2017,1,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,historical_training,5
+201701,2017-01-01,2017,1,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,historical_training,474
+201701,2017-01-01,2017,1,MH-ALL,statewide,SOLAR,Solar,historical_training,10
+201702,2017-02-01,2017,2,MH-ALL,statewide,CNG ONLY,CNG,historical_training,94
+201702,2017-02-01,2017,2,MH-ALL,statewide,DIESEL,Diesel,historical_training,22224
+201702,2017-02-01,2017,2,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,historical_training,601
+201702,2017-02-01,2017,2,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,historical_training,23
+201702,2017-02-01,2017,2,MH-ALL,statewide,LPG ONLY,LPG,historical_training,1
+201702,2017-02-01,2017,2,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,historical_training,623
+201702,2017-02-01,2017,2,MH-ALL,statewide,PETROL,Petrol,historical_training,148250
+201702,2017-02-01,2017,2,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,historical_training,4612
+201702,2017-02-01,2017,2,MH-ALL,statewide,PETROL(E20),Petrol-E20,historical_training,2
+201702,2017-02-01,2017,2,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,historical_training,5
+201702,2017-02-01,2017,2,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,historical_training,464
+201702,2017-02-01,2017,2,MH-ALL,statewide,SOLAR,Solar,historical_training,8
+201703,2017-03-01,2017,3,MH-ALL,statewide,CNG ONLY,CNG,historical_training,102
+201703,2017-03-01,2017,3,MH-ALL,statewide,DIESEL,Diesel,historical_training,31515
+201703,2017-03-01,2017,3,MH-ALL,statewide,DUAL DIESEL/CNG,Diesel-CNG,historical_training,1
+201703,2017-03-01,2017,3,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,historical_training,1135
+201703,2017-03-01,2017,3,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,historical_training,36
+201703,2017-03-01,2017,3,MH-ALL,statewide,LPG ONLY,LPG,historical_training,4
+201703,2017-03-01,2017,3,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,historical_training,665
+201703,2017-03-01,2017,3,MH-ALL,statewide,PETROL,Petrol,historical_training,190283
+201703,2017-03-01,2017,3,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,historical_training,5536
+201703,2017-03-01,2017,3,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,historical_training,19
+201703,2017-03-01,2017,3,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,historical_training,502
+201703,2017-03-01,2017,3,MH-ALL,statewide,SOLAR,Solar,historical_training,11
+201704,2017-04-01,2017,4,MH-ALL,statewide,CNG ONLY,CNG,historical_training,64
+201704,2017-04-01,2017,4,MH-ALL,statewide,DIESEL,Diesel,historical_training,24470
+201704,2017-04-01,2017,4,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,historical_training,1217
+201704,2017-04-01,2017,4,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,historical_training,44
+201704,2017-04-01,2017,4,MH-ALL,statewide,LPG ONLY,LPG,historical_training,2
+201704,2017-04-01,2017,4,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,historical_training,362
+201704,2017-04-01,2017,4,MH-ALL,statewide,PETROL,Petrol,historical_training,174153
+201704,2017-04-01,2017,4,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,historical_training,4912
+201704,2017-04-01,2017,4,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,historical_training,18
+201704,2017-04-01,2017,4,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,historical_training,509
+201704,2017-04-01,2017,4,MH-ALL,statewide,SOLAR,Solar,historical_training,5
+201705,2017-05-01,2017,5,MH-ALL,statewide,CNG ONLY,CNG,historical_training,116
+201705,2017-05-01,2017,5,MH-ALL,statewide,DIESEL,Diesel,historical_training,21593
+201705,2017-05-01,2017,5,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,historical_training,1416
+201705,2017-05-01,2017,5,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,historical_training,98
+201705,2017-05-01,2017,5,MH-ALL,statewide,LPG ONLY,LPG,historical_training,2
+201705,2017-05-01,2017,5,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,historical_training,252
+201705,2017-05-01,2017,5,MH-ALL,statewide,PETROL,Petrol,historical_training,189193
+201705,2017-05-01,2017,5,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,historical_training,4820
+201705,2017-05-01,2017,5,MH-ALL,statewide,PETROL(E20)/CNG,Petrol-E20-CNG,historical_training,1
+201705,2017-05-01,2017,5,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,historical_training,20
+201705,2017-05-01,2017,5,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,historical_training,615
+201705,2017-05-01,2017,5,MH-ALL,statewide,SOLAR,Solar,historical_training,1
+201706,2017-06-01,2017,6,MH-ALL,statewide,CNG ONLY,CNG,historical_training,441
+201706,2017-06-01,2017,6,MH-ALL,statewide,DIESEL,Diesel,historical_training,20743
+201706,2017-06-01,2017,6,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,historical_training,1264
+201706,2017-06-01,2017,6,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,historical_training,45
+201706,2017-06-01,2017,6,MH-ALL,statewide,ETHANOL(E100),Ethanol,historical_training,1
+201706,2017-06-01,2017,6,MH-ALL,statewide,LPG ONLY,LPG,historical_training,7
+201706,2017-06-01,2017,6,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,historical_training,205
+201706,2017-06-01,2017,6,MH-ALL,statewide,PETROL,Petrol,historical_training,156250
+201706,2017-06-01,2017,6,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,historical_training,5786
+201706,2017-06-01,2017,6,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,historical_training,19
+201706,2017-06-01,2017,6,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,historical_training,646
+201706,2017-06-01,2017,6,MH-ALL,statewide,PURE EV,Pure EV,historical_training,5
+201706,2017-06-01,2017,6,MH-ALL,statewide,SOLAR,Solar,historical_training,1
+201707,2017-07-01,2017,7,MH-ALL,statewide,CNG ONLY,CNG,historical_training,376
+201707,2017-07-01,2017,7,MH-ALL,statewide,DIESEL,Diesel,historical_training,22115
+201707,2017-07-01,2017,7,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,historical_training,1108
+201707,2017-07-01,2017,7,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,historical_training,47
+201707,2017-07-01,2017,7,MH-ALL,statewide,LPG ONLY,LPG,historical_training,5
+201707,2017-07-01,2017,7,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,historical_training,159
+201707,2017-07-01,2017,7,MH-ALL,statewide,PETROL,Petrol,historical_training,157901
+201707,2017-07-01,2017,7,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,historical_training,6025
+201707,2017-07-01,2017,7,MH-ALL,statewide,PETROL(E20)/LPG,Petrol-E20-LPG,historical_training,1
+201707,2017-07-01,2017,7,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,historical_training,10
+201707,2017-07-01,2017,7,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,historical_training,623
+201707,2017-07-01,2017,7,MH-ALL,statewide,PURE EV,Pure EV,historical_training,1
+201708,2017-08-01,2017,8,MH-ALL,statewide,CNG ONLY,CNG,historical_training,40
+201708,2017-08-01,2017,8,MH-ALL,statewide,DIESEL,Diesel,historical_training,21892
+201708,2017-08-01,2017,8,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,historical_training,877
+201708,2017-08-01,2017,8,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,historical_training,26
+201708,2017-08-01,2017,8,MH-ALL,statewide,LPG ONLY,LPG,historical_training,2
+201708,2017-08-01,2017,8,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,historical_training,159
+201708,2017-08-01,2017,8,MH-ALL,statewide,PETROL,Petrol,historical_training,138844
+201708,2017-08-01,2017,8,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,historical_training,6956
+201708,2017-08-01,2017,8,MH-ALL,statewide,PETROL(E20)/CNG,Petrol-E20-CNG,historical_training,1
+201708,2017-08-01,2017,8,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,historical_training,9
+201708,2017-08-01,2017,8,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,historical_training,623
+201708,2017-08-01,2017,8,MH-ALL,statewide,PURE EV,Pure EV,historical_training,1
+201709,2017-09-01,2017,9,MH-ALL,statewide,CNG ONLY,CNG,historical_training,49
+201709,2017-09-01,2017,9,MH-ALL,statewide,DIESEL,Diesel,historical_training,29094
+201709,2017-09-01,2017,9,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,historical_training,1005
+201709,2017-09-01,2017,9,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,historical_training,70
+201709,2017-09-01,2017,9,MH-ALL,statewide,LPG ONLY,LPG,historical_training,1
+201709,2017-09-01,2017,9,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,historical_training,163
+201709,2017-09-01,2017,9,MH-ALL,statewide,PETROL,Petrol,historical_training,172853
+201709,2017-09-01,2017,9,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,historical_training,12275
+201709,2017-09-01,2017,9,MH-ALL,statewide,PETROL(E20)/CNG,Petrol-E20-CNG,historical_training,1
+201709,2017-09-01,2017,9,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,historical_training,8
+201709,2017-09-01,2017,9,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,historical_training,1160
+201710,2017-10-01,2017,10,MH-ALL,statewide,CNG ONLY,CNG,historical_training,68
+201710,2017-10-01,2017,10,MH-ALL,statewide,DIESEL,Diesel,historical_training,28904
+201710,2017-10-01,2017,10,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,historical_training,1399
+201710,2017-10-01,2017,10,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,historical_training,51
+201710,2017-10-01,2017,10,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,historical_training,157
+201710,2017-10-01,2017,10,MH-ALL,statewide,PETROL,Petrol,historical_training,209810
+201710,2017-10-01,2017,10,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,historical_training,14210
+201710,2017-10-01,2017,10,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,historical_training,14
+201710,2017-10-01,2017,10,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,historical_training,1924
+201711,2017-11-01,2017,11,MH-ALL,statewide,CNG ONLY,CNG,historical_training,79
+201711,2017-11-01,2017,11,MH-ALL,statewide,DIESEL,Diesel,historical_training,31140
+201711,2017-11-01,2017,11,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,historical_training,1306
+201711,2017-11-01,2017,11,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,historical_training,178
+201711,2017-11-01,2017,11,MH-ALL,statewide,ETHANOL(E100),Ethanol,historical_training,1
+201711,2017-11-01,2017,11,MH-ALL,statewide,LPG ONLY,LPG,historical_training,1
+201711,2017-11-01,2017,11,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,historical_training,218
+201711,2017-11-01,2017,11,MH-ALL,statewide,PETROL,Petrol,historical_training,267109
+201711,2017-11-01,2017,11,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,historical_training,16112
+201711,2017-11-01,2017,11,MH-ALL,statewide,PETROL(E20)/CNG,Petrol-E20-CNG,historical_training,1
+201711,2017-11-01,2017,11,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,historical_training,6
+201711,2017-11-01,2017,11,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,historical_training,2056
+201712,2017-12-01,2017,12,MH-ALL,statewide,CNG ONLY,CNG,historical_training,88
+201712,2017-12-01,2017,12,MH-ALL,statewide,DIESEL,Diesel,historical_training,24552
+201712,2017-12-01,2017,12,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,historical_training,937
+201712,2017-12-01,2017,12,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,historical_training,209
+201712,2017-12-01,2017,12,MH-ALL,statewide,LPG ONLY,LPG,historical_training,1
+201712,2017-12-01,2017,12,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,historical_training,160
+201712,2017-12-01,2017,12,MH-ALL,statewide,PETROL,Petrol,historical_training,163701
+201712,2017-12-01,2017,12,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,historical_training,16005
+201712,2017-12-01,2017,12,MH-ALL,statewide,PETROL(E20),Petrol-E20,historical_training,1
+201712,2017-12-01,2017,12,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,historical_training,3
+201712,2017-12-01,2017,12,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,historical_training,1750
+201801,2018-01-01,2018,1,MH-ALL,statewide,CNG ONLY,CNG,historical_training,107
+201801,2018-01-01,2018,1,MH-ALL,statewide,DIESEL,Diesel,historical_training,35167
+201801,2018-01-01,2018,1,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,historical_training,1551
+201801,2018-01-01,2018,1,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,historical_training,240
+201801,2018-01-01,2018,1,MH-ALL,statewide,LPG ONLY,LPG,historical_training,2
+201801,2018-01-01,2018,1,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,historical_training,420
+201801,2018-01-01,2018,1,MH-ALL,statewide,PETROL,Petrol,historical_training,187036
+201801,2018-01-01,2018,1,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,historical_training,19016
+201801,2018-01-01,2018,1,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,historical_training,8
+201801,2018-01-01,2018,1,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,historical_training,2562
+201802,2018-02-01,2018,2,MH-ALL,statewide,CNG ONLY,CNG,historical_training,54
+201802,2018-02-01,2018,2,MH-ALL,statewide,DIESEL,Diesel,historical_training,29835
+201802,2018-02-01,2018,2,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,historical_training,1108
+201802,2018-02-01,2018,2,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,historical_training,215
+201802,2018-02-01,2018,2,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,historical_training,664
+201802,2018-02-01,2018,2,MH-ALL,statewide,PETROL,Petrol,historical_training,164588
+201802,2018-02-01,2018,2,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,historical_training,16839
+201802,2018-02-01,2018,2,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,historical_training,4
+201802,2018-02-01,2018,2,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,historical_training,2313
+201803,2018-03-01,2018,3,MH-ALL,statewide,CNG ONLY,CNG,historical_training,53
+201803,2018-03-01,2018,3,MH-ALL,statewide,DIESEL,Diesel,historical_training,36098
+201803,2018-03-01,2018,3,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,historical_training,1501
+201803,2018-03-01,2018,3,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,historical_training,191
+201803,2018-03-01,2018,3,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,historical_training,742
+201803,2018-03-01,2018,3,MH-ALL,statewide,PETROL,Petrol,historical_training,190058
+201803,2018-03-01,2018,3,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,historical_training,18390
+201803,2018-03-01,2018,3,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,historical_training,15
+201803,2018-03-01,2018,3,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,historical_training,2867
+201804,2018-04-01,2018,4,MH-ALL,statewide,CNG ONLY,CNG,historical_training,47
+201804,2018-04-01,2018,4,MH-ALL,statewide,DIESEL,Diesel,historical_training,30262
+201804,2018-04-01,2018,4,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,historical_training,1210
+201804,2018-04-01,2018,4,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,historical_training,208
+201804,2018-04-01,2018,4,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,historical_training,851
+201804,2018-04-01,2018,4,MH-ALL,statewide,PETROL,Petrol,historical_training,184682
+201804,2018-04-01,2018,4,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,historical_training,18547
+201804,2018-04-01,2018,4,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,historical_training,24
+201804,2018-04-01,2018,4,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,historical_training,2553
+201805,2018-05-01,2018,5,MH-ALL,statewide,CNG ONLY,CNG,historical_training,29
+201805,2018-05-01,2018,5,MH-ALL,statewide,DIESEL,Diesel,historical_training,26578
+201805,2018-05-01,2018,5,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,historical_training,1121
+201805,2018-05-01,2018,5,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,historical_training,218
+201805,2018-05-01,2018,5,MH-ALL,statewide,LPG ONLY,LPG,historical_training,3
+201805,2018-05-01,2018,5,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,historical_training,680
+201805,2018-05-01,2018,5,MH-ALL,statewide,PETROL,Petrol,historical_training,174865
+201805,2018-05-01,2018,5,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,historical_training,14904
+201805,2018-05-01,2018,5,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,historical_training,16
+201805,2018-05-01,2018,5,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,historical_training,2376
+201806,2018-06-01,2018,6,MH-ALL,statewide,CNG ONLY,CNG,historical_training,51
+201806,2018-06-01,2018,6,MH-ALL,statewide,DIESEL,Diesel,historical_training,26440
+201806,2018-06-01,2018,6,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,historical_training,1056
+201806,2018-06-01,2018,6,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,historical_training,242
+201806,2018-06-01,2018,6,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,historical_training,783
+201806,2018-06-01,2018,6,MH-ALL,statewide,PETROL,Petrol,historical_training,156847
+201806,2018-06-01,2018,6,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,historical_training,12948
+201806,2018-06-01,2018,6,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,historical_training,12
+201806,2018-06-01,2018,6,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,historical_training,2735
+201807,2018-07-01,2018,7,MH-ALL,statewide,CNG ONLY,CNG,historical_training,35
+201807,2018-07-01,2018,7,MH-ALL,statewide,DIESEL,Diesel,historical_training,25461
+201807,2018-07-01,2018,7,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,historical_training,936
+201807,2018-07-01,2018,7,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,historical_training,276
+201807,2018-07-01,2018,7,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,historical_training,680
+201807,2018-07-01,2018,7,MH-ALL,statewide,PETROL,Petrol,historical_training,154736
+201807,2018-07-01,2018,7,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,historical_training,11307
+201807,2018-07-01,2018,7,MH-ALL,statewide,PETROL(E20)/CNG,Petrol-E20-CNG,historical_training,1
+201807,2018-07-01,2018,7,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,historical_training,8
+201807,2018-07-01,2018,7,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,historical_training,2386
+201808,2018-08-01,2018,8,MH-ALL,statewide,CNG ONLY,CNG,historical_training,18
+201808,2018-08-01,2018,8,MH-ALL,statewide,DIESEL,Diesel,historical_training,26303
+201808,2018-08-01,2018,8,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,historical_training,949
+201808,2018-08-01,2018,8,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,historical_training,379
+201808,2018-08-01,2018,8,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,historical_training,751
+201808,2018-08-01,2018,8,MH-ALL,statewide,PETROL,Petrol,historical_training,157815
+201808,2018-08-01,2018,8,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,historical_training,11438
+201808,2018-08-01,2018,8,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,historical_training,46
+201808,2018-08-01,2018,8,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,historical_training,2244
+201809,2018-09-01,2018,9,MH-ALL,statewide,CNG ONLY,CNG,historical_training,23
+201809,2018-09-01,2018,9,MH-ALL,statewide,DIESEL,Diesel,historical_training,27767
+201809,2018-09-01,2018,9,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,historical_training,961
+201809,2018-09-01,2018,9,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,historical_training,465
+201809,2018-09-01,2018,9,MH-ALL,statewide,LPG ONLY,LPG,historical_training,1
+201809,2018-09-01,2018,9,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,historical_training,1062
+201809,2018-09-01,2018,9,MH-ALL,statewide,PETROL,Petrol,historical_training,165967
+201809,2018-09-01,2018,9,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,historical_training,10388
+201809,2018-09-01,2018,9,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,historical_training,401
+201809,2018-09-01,2018,9,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,historical_training,1
+201809,2018-09-01,2018,9,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,historical_training,1908
+201810,2018-10-01,2018,10,MH-ALL,statewide,CNG ONLY,CNG,historical_training,14
+201810,2018-10-01,2018,10,MH-ALL,statewide,DIESEL,Diesel,historical_training,28502
+201810,2018-10-01,2018,10,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,historical_training,1025
+201810,2018-10-01,2018,10,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,historical_training,666
+201810,2018-10-01,2018,10,MH-ALL,statewide,LPG ONLY,LPG,historical_training,1
+201810,2018-10-01,2018,10,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,historical_training,1517
+201810,2018-10-01,2018,10,MH-ALL,statewide,PETROL,Petrol,historical_training,178710
+201810,2018-10-01,2018,10,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,historical_training,9089
+201810,2018-10-01,2018,10,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,historical_training,570
+201810,2018-10-01,2018,10,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,historical_training,1
+201810,2018-10-01,2018,10,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,historical_training,1772
+201811,2018-11-01,2018,11,MH-ALL,statewide,CNG ONLY,CNG,historical_training,17
+201811,2018-11-01,2018,11,MH-ALL,statewide,DIESEL,Diesel,historical_training,30489
+201811,2018-11-01,2018,11,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,historical_training,1057
+201811,2018-11-01,2018,11,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,historical_training,732
+201811,2018-11-01,2018,11,MH-ALL,statewide,LPG ONLY,LPG,historical_training,2
+201811,2018-11-01,2018,11,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,historical_training,1269
+201811,2018-11-01,2018,11,MH-ALL,statewide,PETROL,Petrol,historical_training,209526
+201811,2018-11-01,2018,11,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,historical_training,10526
+201811,2018-11-01,2018,11,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,historical_training,493
+201811,2018-11-01,2018,11,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,historical_training,1
+201811,2018-11-01,2018,11,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,historical_training,1598
+201812,2018-12-01,2018,12,MH-ALL,statewide,CNG ONLY,CNG,historical_training,11
+201812,2018-12-01,2018,12,MH-ALL,statewide,DIESEL,Diesel,historical_training,26702
+201812,2018-12-01,2018,12,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,historical_training,1047
+201812,2018-12-01,2018,12,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,historical_training,799
+201812,2018-12-01,2018,12,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,historical_training,1199
+201812,2018-12-01,2018,12,MH-ALL,statewide,PETROL,Petrol,historical_training,210673
+201812,2018-12-01,2018,12,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,historical_training,10716
+201812,2018-12-01,2018,12,MH-ALL,statewide,PETROL(E20)/HYBRID/CNG,Petrol-E20-Hybrid,historical_training,1
+201812,2018-12-01,2018,12,MH-ALL,statewide,PETROL(E20)/LPG,Petrol-E20-LPG,historical_training,1
+201812,2018-12-01,2018,12,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,historical_training,731
+201812,2018-12-01,2018,12,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,historical_training,2
+201812,2018-12-01,2018,12,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,historical_training,1461
+201901,2019-01-01,2019,1,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,12
+201901,2019-01-01,2019,1,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,31922
+201901,2019-01-01,2019,1,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,2056
+201901,2019-01-01,2019,1,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,702
+201901,2019-01-01,2019,1,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,1
+201901,2019-01-01,2019,1,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1135
+201901,2019-01-01,2019,1,MH-ALL,statewide,PETROL,Petrol,primary_reporting,173099
+201901,2019-01-01,2019,1,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,11143
+201901,2019-01-01,2019,1,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,1372
+201901,2019-01-01,2019,1,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,4
+201901,2019-01-01,2019,1,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,1544
+201902,2019-02-01,2019,2,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,8
+201902,2019-02-01,2019,2,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,24951
+201902,2019-02-01,2019,2,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,1279
+201902,2019-02-01,2019,2,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,680
+201902,2019-02-01,2019,2,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,1
+201902,2019-02-01,2019,2,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1022
+201902,2019-02-01,2019,2,MH-ALL,statewide,PETROL,Petrol,primary_reporting,129252
+201902,2019-02-01,2019,2,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,9040
+201902,2019-02-01,2019,2,MH-ALL,statewide,PETROL(E20)/CNG,Petrol-E20-CNG,primary_reporting,1
+201902,2019-02-01,2019,2,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,806
+201902,2019-02-01,2019,2,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,2
+201902,2019-02-01,2019,2,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,1265
+201903,2019-03-01,2019,3,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,7
+201903,2019-03-01,2019,3,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,30513
+201903,2019-03-01,2019,3,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,1347
+201903,2019-03-01,2019,3,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,914
+201903,2019-03-01,2019,3,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1126
+201903,2019-03-01,2019,3,MH-ALL,statewide,PETROL,Petrol,primary_reporting,142836
+201903,2019-03-01,2019,3,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,8960
+201903,2019-03-01,2019,3,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,876
+201903,2019-03-01,2019,3,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,2
+201903,2019-03-01,2019,3,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,1442
+201904,2019-04-01,2019,4,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,19
+201904,2019-04-01,2019,4,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,28791
+201904,2019-04-01,2019,4,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,934
+201904,2019-04-01,2019,4,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,779
+201904,2019-04-01,2019,4,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,2
+201904,2019-04-01,2019,4,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,821
+201904,2019-04-01,2019,4,MH-ALL,statewide,PETROL,Petrol,primary_reporting,154454
+201904,2019-04-01,2019,4,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,8826
+201904,2019-04-01,2019,4,MH-ALL,statewide,PETROL(E20),Petrol-E20,primary_reporting,1
+201904,2019-04-01,2019,4,MH-ALL,statewide,PETROL(E20)/CNG,Petrol-E20-CNG,primary_reporting,1
+201904,2019-04-01,2019,4,MH-ALL,statewide,PETROL(E20)/HYBRID/CNG,Petrol-E20-Hybrid,primary_reporting,1
+201904,2019-04-01,2019,4,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,1011
+201904,2019-04-01,2019,4,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,1036
+201905,2019-05-01,2019,5,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,28
+201905,2019-05-01,2019,5,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,27197
+201905,2019-05-01,2019,5,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,758
+201905,2019-05-01,2019,5,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,622
+201905,2019-05-01,2019,5,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,755
+201905,2019-05-01,2019,5,MH-ALL,statewide,PETROL,Petrol,primary_reporting,162949
+201905,2019-05-01,2019,5,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,9792
+201905,2019-05-01,2019,5,MH-ALL,statewide,PETROL(E20),Petrol-E20,primary_reporting,1
+201905,2019-05-01,2019,5,MH-ALL,statewide,PETROL(E20)/CNG,Petrol-E20-CNG,primary_reporting,1
+201905,2019-05-01,2019,5,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,912
+201905,2019-05-01,2019,5,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,1311
+201906,2019-06-01,2019,6,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,26
+201906,2019-06-01,2019,6,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,22721
+201906,2019-06-01,2019,6,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,331
+201906,2019-06-01,2019,6,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,463
+201906,2019-06-01,2019,6,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,732
+201906,2019-06-01,2019,6,MH-ALL,statewide,PETROL,Petrol,primary_reporting,127149
+201906,2019-06-01,2019,6,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,7774
+201906,2019-06-01,2019,6,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,868
+201906,2019-06-01,2019,6,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,1
+201906,2019-06-01,2019,6,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,1107
+201906,2019-06-01,2019,6,MH-ALL,statewide,PURE EV,Pure EV,primary_reporting,2
+201907,2019-07-01,2019,7,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,65
+201907,2019-07-01,2019,7,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,22629
+201907,2019-07-01,2019,7,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,254
+201907,2019-07-01,2019,7,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,393
+201907,2019-07-01,2019,7,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,1
+201907,2019-07-01,2019,7,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,732
+201907,2019-07-01,2019,7,MH-ALL,statewide,PETROL,Petrol,primary_reporting,130084
+201907,2019-07-01,2019,7,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,8593
+201907,2019-07-01,2019,7,MH-ALL,statewide,PETROL(E20),Petrol-E20,primary_reporting,1
+201907,2019-07-01,2019,7,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,882
+201907,2019-07-01,2019,7,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,3
+201907,2019-07-01,2019,7,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,1187
+201908,2019-08-01,2019,8,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,136
+201908,2019-08-01,2019,8,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,21865
+201908,2019-08-01,2019,8,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,217
+201908,2019-08-01,2019,8,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,466
+201908,2019-08-01,2019,8,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,1
+201908,2019-08-01,2019,8,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,650
+201908,2019-08-01,2019,8,MH-ALL,statewide,PETROL,Petrol,primary_reporting,121945
+201908,2019-08-01,2019,8,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,8938
+201908,2019-08-01,2019,8,MH-ALL,statewide,PETROL(E20)/CNG,Petrol-E20-CNG,primary_reporting,1
+201908,2019-08-01,2019,8,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,829
+201908,2019-08-01,2019,8,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,1
+201908,2019-08-01,2019,8,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,1109
+201909,2019-09-01,2019,9,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,99
+201909,2019-09-01,2019,9,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,20956
+201909,2019-09-01,2019,9,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,176
+201909,2019-09-01,2019,9,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,441
+201909,2019-09-01,2019,9,MH-ALL,statewide,LNG,LNG,primary_reporting,1
+201909,2019-09-01,2019,9,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,1
+201909,2019-09-01,2019,9,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,662
+201909,2019-09-01,2019,9,MH-ALL,statewide,PETROL,Petrol,primary_reporting,119865
+201909,2019-09-01,2019,9,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,7037
+201909,2019-09-01,2019,9,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,724
+201909,2019-09-01,2019,9,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,2
+201909,2019-09-01,2019,9,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,1092
+201910,2019-10-01,2019,10,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,122
+201910,2019-10-01,2019,10,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,27815
+201910,2019-10-01,2019,10,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,241
+201910,2019-10-01,2019,10,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,508
+201910,2019-10-01,2019,10,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,773
+201910,2019-10-01,2019,10,MH-ALL,statewide,PETROL,Petrol,primary_reporting,165246
+201910,2019-10-01,2019,10,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,9792
+201910,2019-10-01,2019,10,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,1382
+201910,2019-10-01,2019,10,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,4
+201910,2019-10-01,2019,10,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,1110
+201911,2019-11-01,2019,11,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,46
+201911,2019-11-01,2019,11,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,32511
+201911,2019-11-01,2019,11,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,264
+201911,2019-11-01,2019,11,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,882
+201911,2019-11-01,2019,11,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,1
+201911,2019-11-01,2019,11,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1094
+201911,2019-11-01,2019,11,MH-ALL,statewide,PETROL,Petrol,primary_reporting,229624
+201911,2019-11-01,2019,11,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,10245
+201911,2019-11-01,2019,11,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,955
+201911,2019-11-01,2019,11,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,2
+201911,2019-11-01,2019,11,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,1448
+201912,2019-12-01,2019,12,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,18
+201912,2019-12-01,2019,12,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,24232
+201912,2019-12-01,2019,12,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,153
+201912,2019-12-01,2019,12,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,474
+201912,2019-12-01,2019,12,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1196
+201912,2019-12-01,2019,12,MH-ALL,statewide,PETROL,Petrol,primary_reporting,172841
+201912,2019-12-01,2019,12,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,7388
+201912,2019-12-01,2019,12,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,670
+201912,2019-12-01,2019,12,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,1225
+202001,2020-01-01,2020,1,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,176
+202001,2020-01-01,2020,1,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,34111
+202001,2020-01-01,2020,1,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,284
+202001,2020-01-01,2020,1,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,736
+202001,2020-01-01,2020,1,MH-ALL,statewide,LNG,LNG,primary_reporting,1
+202001,2020-01-01,2020,1,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,1
+202001,2020-01-01,2020,1,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1306
+202001,2020-01-01,2020,1,MH-ALL,statewide,PETROL,Petrol,primary_reporting,163646
+202001,2020-01-01,2020,1,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,11750
+202001,2020-01-01,2020,1,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,652
+202001,2020-01-01,2020,1,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,1610
+202001,2020-01-01,2020,1,MH-ALL,statewide,PURE EV,Pure EV,primary_reporting,2
+202002,2020-02-01,2020,2,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,214
+202002,2020-02-01,2020,2,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,26002
+202002,2020-02-01,2020,2,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,109
+202002,2020-02-01,2020,2,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,794
+202002,2020-02-01,2020,2,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,21
+202002,2020-02-01,2020,2,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1122
+202002,2020-02-01,2020,2,MH-ALL,statewide,PETROL,Petrol,primary_reporting,134410
+202002,2020-02-01,2020,2,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,8559
+202002,2020-02-01,2020,2,MH-ALL,statewide,PETROL(E20),Petrol-E20,primary_reporting,1
+202002,2020-02-01,2020,2,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,676
+202002,2020-02-01,2020,2,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,3
+202002,2020-02-01,2020,2,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,1011
+202003,2020-03-01,2020,3,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,1994
+202003,2020-03-01,2020,3,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,33543
+202003,2020-03-01,2020,3,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,51
+202003,2020-03-01,2020,3,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,839
+202003,2020-03-01,2020,3,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,310
+202003,2020-03-01,2020,3,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1059
+202003,2020-03-01,2020,3,MH-ALL,statewide,PETROL,Petrol,primary_reporting,221570
+202003,2020-03-01,2020,3,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,6528
+202003,2020-03-01,2020,3,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,1145
+202003,2020-03-01,2020,3,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,1
+202003,2020-03-01,2020,3,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,896
+202004,2020-04-01,2020,4,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,166
+202004,2020-04-01,2020,4,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,2705
+202004,2020-04-01,2020,4,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,12
+202004,2020-04-01,2020,4,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,9
+202004,2020-04-01,2020,4,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,6
+202004,2020-04-01,2020,4,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,39
+202004,2020-04-01,2020,4,MH-ALL,statewide,PETROL,Petrol,primary_reporting,17975
+202004,2020-04-01,2020,4,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,479
+202004,2020-04-01,2020,4,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,16
+202004,2020-04-01,2020,4,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,111
+202005,2020-05-01,2020,5,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,36
+202005,2020-05-01,2020,5,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,908
+202005,2020-05-01,2020,5,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,133
+202005,2020-05-01,2020,5,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,3
+202005,2020-05-01,2020,5,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,80
+202005,2020-05-01,2020,5,MH-ALL,statewide,PETROL,Petrol,primary_reporting,4069
+202005,2020-05-01,2020,5,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,395
+202005,2020-05-01,2020,5,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,122
+202005,2020-05-01,2020,5,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,2
+202005,2020-05-01,2020,5,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,10
+202006,2020-06-01,2020,6,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,691
+202006,2020-06-01,2020,6,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,7434
+202006,2020-06-01,2020,6,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,312
+202006,2020-06-01,2020,6,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,169
+202006,2020-06-01,2020,6,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,603
+202006,2020-06-01,2020,6,MH-ALL,statewide,PETROL,Petrol,primary_reporting,48259
+202006,2020-06-01,2020,6,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,1928
+202006,2020-06-01,2020,6,MH-ALL,statewide,PETROL(E20),Petrol-E20,primary_reporting,1
+202006,2020-06-01,2020,6,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,670
+202006,2020-06-01,2020,6,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,6
+202006,2020-06-01,2020,6,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,27
+202007,2020-07-01,2020,7,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,845
+202007,2020-07-01,2020,7,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,14184
+202007,2020-07-01,2020,7,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,402
+202007,2020-07-01,2020,7,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,139
+202007,2020-07-01,2020,7,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,929
+202007,2020-07-01,2020,7,MH-ALL,statewide,PETROL,Petrol,primary_reporting,80420
+202007,2020-07-01,2020,7,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,2883
+202007,2020-07-01,2020,7,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,824
+202007,2020-07-01,2020,7,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,6
+202007,2020-07-01,2020,7,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,54
+202008,2020-08-01,2020,8,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,854
+202008,2020-08-01,2020,8,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,15360
+202008,2020-08-01,2020,8,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,1
+202008,2020-08-01,2020,8,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,490
+202008,2020-08-01,2020,8,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,154
+202008,2020-08-01,2020,8,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1047
+202008,2020-08-01,2020,8,MH-ALL,statewide,PETROL,Petrol,primary_reporting,96477
+202008,2020-08-01,2020,8,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,5599
+202008,2020-08-01,2020,8,MH-ALL,statewide,PETROL(E20)/HYBRID/CNG,Petrol-E20-Hybrid,primary_reporting,1
+202008,2020-08-01,2020,8,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,1140
+202008,2020-08-01,2020,8,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,7
+202008,2020-08-01,2020,8,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,51
+202009,2020-09-01,2020,9,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,975
+202009,2020-09-01,2020,9,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,21605
+202009,2020-09-01,2020,9,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,609
+202009,2020-09-01,2020,9,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,147
+202009,2020-09-01,2020,9,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1583
+202009,2020-09-01,2020,9,MH-ALL,statewide,PETROL,Petrol,primary_reporting,123379
+202009,2020-09-01,2020,9,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,5592
+202009,2020-09-01,2020,9,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,1204
+202009,2020-09-01,2020,9,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,5
+202009,2020-09-01,2020,9,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,75
+202010,2020-10-01,2020,10,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,742
+202010,2020-10-01,2020,10,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,20028
+202010,2020-10-01,2020,10,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,712
+202010,2020-10-01,2020,10,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,122
+202010,2020-10-01,2020,10,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1913
+202010,2020-10-01,2020,10,MH-ALL,statewide,PETROL,Petrol,primary_reporting,141898
+202010,2020-10-01,2020,10,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,8276
+202010,2020-10-01,2020,10,MH-ALL,statewide,PETROL(E20)/HYBRID/CNG,Petrol-E20-Hybrid,primary_reporting,1
+202010,2020-10-01,2020,10,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,1628
+202010,2020-10-01,2020,10,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,10
+202010,2020-10-01,2020,10,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,81
+202011,2020-11-01,2020,11,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,759
+202011,2020-11-01,2020,11,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,22601
+202011,2020-11-01,2020,11,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,986
+202011,2020-11-01,2020,11,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,118
+202011,2020-11-01,2020,11,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1843
+202011,2020-11-01,2020,11,MH-ALL,statewide,PETROL,Petrol,primary_reporting,200122
+202011,2020-11-01,2020,11,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,7303
+202011,2020-11-01,2020,11,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,1955
+202011,2020-11-01,2020,11,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,8
+202011,2020-11-01,2020,11,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,96
+202012,2020-12-01,2020,12,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,610
+202012,2020-12-01,2020,12,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,21448
+202012,2020-12-01,2020,12,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,1099
+202012,2020-12-01,2020,12,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,97
+202012,2020-12-01,2020,12,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1706
+202012,2020-12-01,2020,12,MH-ALL,statewide,PETROL,Petrol,primary_reporting,210308
+202012,2020-12-01,2020,12,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,6738
+202012,2020-12-01,2020,12,MH-ALL,statewide,PETROL(E20)/HYBRID/CNG,Petrol-E20-Hybrid,primary_reporting,1
+202012,2020-12-01,2020,12,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,1748
+202012,2020-12-01,2020,12,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,8
+202012,2020-12-01,2020,12,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,141
+202101,2021-01-01,2021,1,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,808
+202101,2021-01-01,2021,1,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,22970
+202101,2021-01-01,2021,1,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,1119
+202101,2021-01-01,2021,1,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,62
+202101,2021-01-01,2021,1,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1489
+202101,2021-01-01,2021,1,MH-ALL,statewide,PETROL,Petrol,primary_reporting,165588
+202101,2021-01-01,2021,1,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,9238
+202101,2021-01-01,2021,1,MH-ALL,statewide,PETROL(E20)/CNG,Petrol-E20-CNG,primary_reporting,1
+202101,2021-01-01,2021,1,MH-ALL,statewide,PETROL(E20)/HYBRID/CNG,Petrol-E20-Hybrid,primary_reporting,2
+202101,2021-01-01,2021,1,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,1841
+202101,2021-01-01,2021,1,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,7
+202101,2021-01-01,2021,1,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,258
+202102,2021-02-01,2021,2,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,2282
+202102,2021-02-01,2021,2,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,22076
+202102,2021-02-01,2021,2,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,1424
+202102,2021-02-01,2021,2,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,36
+202102,2021-02-01,2021,2,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1240
+202102,2021-02-01,2021,2,MH-ALL,statewide,PETROL,Petrol,primary_reporting,149439
+202102,2021-02-01,2021,2,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,7766
+202102,2021-02-01,2021,2,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,1400
+202102,2021-02-01,2021,2,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,8
+202102,2021-02-01,2021,2,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,278
+202103,2021-03-01,2021,3,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,3229
+202103,2021-03-01,2021,3,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,25783
+202103,2021-03-01,2021,3,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,2095
+202103,2021-03-01,2021,3,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,19
+202103,2021-03-01,2021,3,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1693
+202103,2021-03-01,2021,3,MH-ALL,statewide,PETROL,Petrol,primary_reporting,144297
+202103,2021-03-01,2021,3,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,8424
+202103,2021-03-01,2021,3,MH-ALL,statewide,PETROL(E20)/CNG,Petrol-E20-CNG,primary_reporting,3
+202103,2021-03-01,2021,3,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,1711
+202103,2021-03-01,2021,3,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,11
+202103,2021-03-01,2021,3,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,273
+202104,2021-04-01,2021,4,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,1372
+202104,2021-04-01,2021,4,MH-ALL,statewide,HCNG,CNG,primary_reporting,1
+202104,2021-04-01,2021,4,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,12380
+202104,2021-04-01,2021,4,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,683
+202104,2021-04-01,2021,4,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,51
+202104,2021-04-01,2021,4,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,606
+202104,2021-04-01,2021,4,MH-ALL,statewide,PETROL,Petrol,primary_reporting,54445
+202104,2021-04-01,2021,4,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,3745
+202104,2021-04-01,2021,4,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,793
+202104,2021-04-01,2021,4,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,3
+202104,2021-04-01,2021,4,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,64
+202105,2021-05-01,2021,5,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,437
+202105,2021-05-01,2021,5,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,6822
+202105,2021-05-01,2021,5,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,349
+202105,2021-05-01,2021,5,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,4
+202105,2021-05-01,2021,5,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,118
+202105,2021-05-01,2021,5,MH-ALL,statewide,PETROL,Petrol,primary_reporting,23377
+202105,2021-05-01,2021,5,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,3670
+202105,2021-05-01,2021,5,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,648
+202105,2021-05-01,2021,5,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,1
+202105,2021-05-01,2021,5,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,20
+202106,2021-06-01,2021,6,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,943
+202106,2021-06-01,2021,6,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,18190
+202106,2021-06-01,2021,6,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,1166
+202106,2021-06-01,2021,6,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,47
+202106,2021-06-01,2021,6,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,938
+202106,2021-06-01,2021,6,MH-ALL,statewide,PETROL,Petrol,primary_reporting,88203
+202106,2021-06-01,2021,6,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,3882
+202106,2021-06-01,2021,6,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,1207
+202106,2021-06-01,2021,6,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,4
+202106,2021-06-01,2021,6,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,54
+202107,2021-07-01,2021,7,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,3166
+202107,2021-07-01,2021,7,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,25049
+202107,2021-07-01,2021,7,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,2542
+202107,2021-07-01,2021,7,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,109
+202107,2021-07-01,2021,7,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1320
+202107,2021-07-01,2021,7,MH-ALL,statewide,PETROL,Petrol,primary_reporting,163517
+202107,2021-07-01,2021,7,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,8773
+202107,2021-07-01,2021,7,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,2056
+202107,2021-07-01,2021,7,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,14
+202107,2021-07-01,2021,7,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,69
+202108,2021-08-01,2021,8,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,3439
+202108,2021-08-01,2021,8,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,25370
+202108,2021-08-01,2021,8,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,2844
+202108,2021-08-01,2021,8,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,146
+202108,2021-08-01,2021,8,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1613
+202108,2021-08-01,2021,8,MH-ALL,statewide,PETROL,Petrol,primary_reporting,135174
+202108,2021-08-01,2021,8,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,8033
+202108,2021-08-01,2021,8,MH-ALL,statewide,PETROL(E20)/CNG,Petrol-E20-CNG,primary_reporting,1
+202108,2021-08-01,2021,8,MH-ALL,statewide,PETROL(E20)/HYBRID/CNG,Petrol-E20-Hybrid,primary_reporting,1
+202108,2021-08-01,2021,8,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,1669
+202108,2021-08-01,2021,8,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,12
+202108,2021-08-01,2021,8,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,99
+202109,2021-09-01,2021,9,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,4046
+202109,2021-09-01,2021,9,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,20449
+202109,2021-09-01,2021,9,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,2559
+202109,2021-09-01,2021,9,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,137
+202109,2021-09-01,2021,9,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1863
+202109,2021-09-01,2021,9,MH-ALL,statewide,PETROL,Petrol,primary_reporting,106373
+202109,2021-09-01,2021,9,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,5582
+202109,2021-09-01,2021,9,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,1450
+202109,2021-09-01,2021,9,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,1
+202109,2021-09-01,2021,9,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,46
+202110,2021-10-01,2021,10,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,3986
+202110,2021-10-01,2021,10,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,22185
+202110,2021-10-01,2021,10,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,1
+202110,2021-10-01,2021,10,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,4115
+202110,2021-10-01,2021,10,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,129
+202110,2021-10-01,2021,10,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,2363
+202110,2021-10-01,2021,10,MH-ALL,statewide,PETROL,Petrol,primary_reporting,147897
+202110,2021-10-01,2021,10,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,5244
+202110,2021-10-01,2021,10,MH-ALL,statewide,PETROL(E20)/HYBRID/CNG,Petrol-E20-Hybrid,primary_reporting,1
+202110,2021-10-01,2021,10,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,2230
+202110,2021-10-01,2021,10,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,16
+202110,2021-10-01,2021,10,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,78
+202111,2021-11-01,2021,11,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,4266
+202111,2021-11-01,2021,11,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,20744
+202111,2021-11-01,2021,11,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,4494
+202111,2021-11-01,2021,11,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,147
+202111,2021-11-01,2021,11,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1485
+202111,2021-11-01,2021,11,MH-ALL,statewide,PETROL,Petrol,primary_reporting,181447
+202111,2021-11-01,2021,11,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,4813
+202111,2021-11-01,2021,11,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,1635
+202111,2021-11-01,2021,11,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,6
+202111,2021-11-01,2021,11,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,77
+202112,2021-12-01,2021,12,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,3463
+202112,2021-12-01,2021,12,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,21847
+202112,2021-12-01,2021,12,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,6514
+202112,2021-12-01,2021,12,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,110
+202112,2021-12-01,2021,12,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1804
+202112,2021-12-01,2021,12,MH-ALL,statewide,PETROL,Petrol,primary_reporting,146761
+202112,2021-12-01,2021,12,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,5079
+202112,2021-12-01,2021,12,MH-ALL,statewide,PETROL(E20)/CNG,Petrol-E20-CNG,primary_reporting,1
+202112,2021-12-01,2021,12,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,1281
+202112,2021-12-01,2021,12,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,3
+202112,2021-12-01,2021,12,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,89
+202201,2022-01-01,2022,1,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,4538
+202201,2022-01-01,2022,1,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,23796
+202201,2022-01-01,2022,1,MH-ALL,statewide,DUAL DIESEL/CNG,Diesel-CNG,primary_reporting,1
+202201,2022-01-01,2022,1,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,5758
+202201,2022-01-01,2022,1,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,201
+202201,2022-01-01,2022,1,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1458
+202201,2022-01-01,2022,1,MH-ALL,statewide,PETROL,Petrol,primary_reporting,152064
+202201,2022-01-01,2022,1,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,8271
+202201,2022-01-01,2022,1,MH-ALL,statewide,PETROL(E20)/CNG,Petrol-E20-CNG,primary_reporting,1
+202201,2022-01-01,2022,1,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,1557
+202201,2022-01-01,2022,1,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,7
+202201,2022-01-01,2022,1,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,90
+202202,2022-02-01,2022,2,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,3722
+202202,2022-02-01,2022,2,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,22119
+202202,2022-02-01,2022,2,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,1
+202202,2022-02-01,2022,2,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,8195
+202202,2022-02-01,2022,2,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,154
+202202,2022-02-01,2022,2,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1482
+202202,2022-02-01,2022,2,MH-ALL,statewide,PETROL,Petrol,primary_reporting,124440
+202202,2022-02-01,2022,2,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,8998
+202202,2022-02-01,2022,2,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,1286
+202202,2022-02-01,2022,2,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,6
+202202,2022-02-01,2022,2,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,59
+202203,2022-03-01,2022,3,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,4478
+202203,2022-03-01,2022,3,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,28007
+202203,2022-03-01,2022,3,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,1
+202203,2022-03-01,2022,3,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,12205
+202203,2022-03-01,2022,3,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,234
+202203,2022-03-01,2022,3,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1495
+202203,2022-03-01,2022,3,MH-ALL,statewide,PETROL,Petrol,primary_reporting,139197
+202203,2022-03-01,2022,3,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,10594
+202203,2022-03-01,2022,3,MH-ALL,statewide,PETROL(E20)/CNG,Petrol-E20-CNG,primary_reporting,1
+202203,2022-03-01,2022,3,MH-ALL,statewide,PETROL(E20)/HYBRID/CNG,Petrol-E20-Hybrid,primary_reporting,1
+202203,2022-03-01,2022,3,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,1200
+202203,2022-03-01,2022,3,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,3
+202203,2022-03-01,2022,3,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,61
+202204,2022-04-01,2022,4,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,4116
+202204,2022-04-01,2022,4,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,24257
+202204,2022-04-01,2022,4,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,1
+202204,2022-04-01,2022,4,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,8184
+202204,2022-04-01,2022,4,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,171
+202204,2022-04-01,2022,4,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1058
+202204,2022-04-01,2022,4,MH-ALL,statewide,PETROL,Petrol,primary_reporting,144761
+202204,2022-04-01,2022,4,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,8144
+202204,2022-04-01,2022,4,MH-ALL,statewide,PETROL(E20)/LPG,Petrol-E20-LPG,primary_reporting,1
+202204,2022-04-01,2022,4,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,1030
+202204,2022-04-01,2022,4,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,2
+202204,2022-04-01,2022,4,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,51
+202205,2022-05-01,2022,5,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,3187
+202205,2022-05-01,2022,5,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,21196
+202205,2022-05-01,2022,5,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,10
+202205,2022-05-01,2022,5,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,10164
+202205,2022-05-01,2022,5,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,173
+202205,2022-05-01,2022,5,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,988
+202205,2022-05-01,2022,5,MH-ALL,statewide,PETROL,Petrol,primary_reporting,130768
+202205,2022-05-01,2022,5,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,8809
+202205,2022-05-01,2022,5,MH-ALL,statewide,PETROL(E20)/CNG,Petrol-E20-CNG,primary_reporting,3
+202205,2022-05-01,2022,5,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,2397
+202205,2022-05-01,2022,5,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,9
+202205,2022-05-01,2022,5,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,80
+202206,2022-06-01,2022,6,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,3240
+202206,2022-06-01,2022,6,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,22657
+202206,2022-06-01,2022,6,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,10
+202206,2022-06-01,2022,6,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,9549
+202206,2022-06-01,2022,6,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,201
+202206,2022-06-01,2022,6,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1110
+202206,2022-06-01,2022,6,MH-ALL,statewide,PETROL,Petrol,primary_reporting,125039
+202206,2022-06-01,2022,6,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,9512
+202206,2022-06-01,2022,6,MH-ALL,statewide,PETROL(E20)/CNG,Petrol-E20-CNG,primary_reporting,2
+202206,2022-06-01,2022,6,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,1466
+202206,2022-06-01,2022,6,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,5
+202206,2022-06-01,2022,6,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,86
+202207,2022-07-01,2022,7,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,3273
+202207,2022-07-01,2022,7,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,22242
+202207,2022-07-01,2022,7,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,20
+202207,2022-07-01,2022,7,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,9998
+202207,2022-07-01,2022,7,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,195
+202207,2022-07-01,2022,7,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1034
+202207,2022-07-01,2022,7,MH-ALL,statewide,PETROL,Petrol,primary_reporting,119735
+202207,2022-07-01,2022,7,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,9513
+202207,2022-07-01,2022,7,MH-ALL,statewide,PETROL(E20)/HYBRID/CNG,Petrol-E20-Hybrid,primary_reporting,1
+202207,2022-07-01,2022,7,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,1304
+202207,2022-07-01,2022,7,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,2
+202207,2022-07-01,2022,7,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,77
+202208,2022-08-01,2022,8,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,4094
+202208,2022-08-01,2022,8,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,22768
+202208,2022-08-01,2022,8,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,33
+202208,2022-08-01,2022,8,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,11361
+202208,2022-08-01,2022,8,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,237
+202208,2022-08-01,2022,8,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1094
+202208,2022-08-01,2022,8,MH-ALL,statewide,PETROL,Petrol,primary_reporting,128764
+202208,2022-08-01,2022,8,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,10397
+202208,2022-08-01,2022,8,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,1706
+202208,2022-08-01,2022,8,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,3
+202208,2022-08-01,2022,8,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,57
+202209,2022-09-01,2022,9,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,4122
+202209,2022-09-01,2022,9,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,24156
+202209,2022-09-01,2022,9,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,15
+202209,2022-09-01,2022,9,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,12283
+202209,2022-09-01,2022,9,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,298
+202209,2022-09-01,2022,9,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1698
+202209,2022-09-01,2022,9,MH-ALL,statewide,PETROL,Petrol,primary_reporting,128632
+202209,2022-09-01,2022,9,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,8183
+202209,2022-09-01,2022,9,MH-ALL,statewide,PETROL(E20)/HYBRID/CNG,Petrol-E20-Hybrid,primary_reporting,1
+202209,2022-09-01,2022,9,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,1681
+202209,2022-09-01,2022,9,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,2
+202209,2022-09-01,2022,9,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,69
+202210,2022-10-01,2022,10,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,4916
+202210,2022-10-01,2022,10,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,29035
+202210,2022-10-01,2022,10,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,22
+202210,2022-10-01,2022,10,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,17896
+202210,2022-10-01,2022,10,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,326
+202210,2022-10-01,2022,10,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1703
+202210,2022-10-01,2022,10,MH-ALL,statewide,PETROL,Petrol,primary_reporting,198669
+202210,2022-10-01,2022,10,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,12431
+202210,2022-10-01,2022,10,MH-ALL,statewide,PETROL(E20)/HYBRID/CNG,Petrol-E20-Hybrid,primary_reporting,1
+202210,2022-10-01,2022,10,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,3216
+202210,2022-10-01,2022,10,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,2
+202210,2022-10-01,2022,10,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,77
+202211,2022-11-01,2022,11,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,5193
+202211,2022-11-01,2022,11,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,27669
+202211,2022-11-01,2022,11,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,14
+202211,2022-11-01,2022,11,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,15528
+202211,2022-11-01,2022,11,MH-ALL,statewide,LNG,LNG,primary_reporting,10
+202211,2022-11-01,2022,11,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,409
+202211,2022-11-01,2022,11,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1706
+202211,2022-11-01,2022,11,MH-ALL,statewide,PETROL,Petrol,primary_reporting,207726
+202211,2022-11-01,2022,11,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,8781
+202211,2022-11-01,2022,11,MH-ALL,statewide,PETROL(E20)/CNG,Petrol-E20-CNG,primary_reporting,1
+202211,2022-11-01,2022,11,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,2676
+202211,2022-11-01,2022,11,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,4
+202211,2022-11-01,2022,11,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,43
+202212,2022-12-01,2022,12,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,3882
+202212,2022-12-01,2022,12,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,28170
+202212,2022-12-01,2022,12,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,28
+202212,2022-12-01,2022,12,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,14849
+202212,2022-12-01,2022,12,MH-ALL,statewide,LNG,LNG,primary_reporting,5
+202212,2022-12-01,2022,12,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,299
+202212,2022-12-01,2022,12,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1279
+202212,2022-12-01,2022,12,MH-ALL,statewide,PETROL,Petrol,primary_reporting,139039
+202212,2022-12-01,2022,12,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,7796
+202212,2022-12-01,2022,12,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,2445
+202212,2022-12-01,2022,12,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,3
+202212,2022-12-01,2022,12,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,65
+202301,2023-01-01,2023,1,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,4878
+202301,2023-01-01,2023,1,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,31889
+202301,2023-01-01,2023,1,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,28
+202301,2023-01-01,2023,1,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,15495
+202301,2023-01-01,2023,1,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,417
+202301,2023-01-01,2023,1,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1103
+202301,2023-01-01,2023,1,MH-ALL,statewide,PETROL,Petrol,primary_reporting,155104
+202301,2023-01-01,2023,1,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,11567
+202301,2023-01-01,2023,1,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,3361
+202301,2023-01-01,2023,1,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,6
+202301,2023-01-01,2023,1,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,63
+202302,2023-02-01,2023,2,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,4577
+202302,2023-02-01,2023,2,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,26957
+202302,2023-02-01,2023,2,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,22
+202302,2023-02-01,2023,2,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,13797
+202302,2023-02-01,2023,2,MH-ALL,statewide,LNG,LNG,primary_reporting,13
+202302,2023-02-01,2023,2,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,429
+202302,2023-02-01,2023,2,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1132
+202302,2023-02-01,2023,2,MH-ALL,statewide,PETROL,Petrol,primary_reporting,132463
+202302,2023-02-01,2023,2,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,6478
+202302,2023-02-01,2023,2,MH-ALL,statewide,PETROL(E20),Petrol-E20,primary_reporting,43
+202302,2023-02-01,2023,2,MH-ALL,statewide,PETROL(E20)/HYBRID/CNG,Petrol-E20-Hybrid,primary_reporting,1
+202302,2023-02-01,2023,2,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,2785
+202302,2023-02-01,2023,2,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,3
+202302,2023-02-01,2023,2,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,67
+202303,2023-03-01,2023,3,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,4734
+202303,2023-03-01,2023,3,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,29171
+202303,2023-03-01,2023,3,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,24
+202303,2023-03-01,2023,3,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,19509
+202303,2023-03-01,2023,3,MH-ALL,statewide,LNG,LNG,primary_reporting,23
+202303,2023-03-01,2023,3,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,403
+202303,2023-03-01,2023,3,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1003
+202303,2023-03-01,2023,3,MH-ALL,statewide,PETROL,Petrol,primary_reporting,156982
+202303,2023-03-01,2023,3,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,8746
+202303,2023-03-01,2023,3,MH-ALL,statewide,PETROL(E20),Petrol-E20,primary_reporting,1270
+202303,2023-03-01,2023,3,MH-ALL,statewide,PETROL(E20)/HYBRID/CNG,Petrol-E20-Hybrid,primary_reporting,1
+202303,2023-03-01,2023,3,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,4290
+202303,2023-03-01,2023,3,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,5
+202303,2023-03-01,2023,3,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,82
+202304,2023-04-01,2023,4,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,4687
+202304,2023-04-01,2023,4,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,26661
+202304,2023-04-01,2023,4,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,21
+202304,2023-04-01,2023,4,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,14593
+202304,2023-04-01,2023,4,MH-ALL,statewide,LNG,LNG,primary_reporting,11
+202304,2023-04-01,2023,4,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,393
+202304,2023-04-01,2023,4,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1149
+202304,2023-04-01,2023,4,MH-ALL,statewide,PETROL,Petrol,primary_reporting,133577
+202304,2023-04-01,2023,4,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,8149
+202304,2023-04-01,2023,4,MH-ALL,statewide,PETROL(E20),Petrol-E20,primary_reporting,1766
+202304,2023-04-01,2023,4,MH-ALL,statewide,PETROL(E20)/CNG,Petrol-E20-CNG,primary_reporting,1
+202304,2023-04-01,2023,4,MH-ALL,statewide,PETROL(E20)/LPG,Petrol-E20-LPG,primary_reporting,1
+202304,2023-04-01,2023,4,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,2862
+202304,2023-04-01,2023,4,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,2
+202304,2023-04-01,2023,4,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,48
+202305,2023-05-01,2023,5,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,4371
+202305,2023-05-01,2023,5,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,24511
+202305,2023-05-01,2023,5,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,21
+202305,2023-05-01,2023,5,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,22780
+202305,2023-05-01,2023,5,MH-ALL,statewide,LNG,LNG,primary_reporting,22
+202305,2023-05-01,2023,5,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,487
+202305,2023-05-01,2023,5,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1027
+202305,2023-05-01,2023,5,MH-ALL,statewide,PETROL,Petrol,primary_reporting,120058
+202305,2023-05-01,2023,5,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,8796
+202305,2023-05-01,2023,5,MH-ALL,statewide,PETROL(E20),Petrol-E20,primary_reporting,2007
+202305,2023-05-01,2023,5,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,2621
+202305,2023-05-01,2023,5,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,2
+202305,2023-05-01,2023,5,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,37
+202306,2023-06-01,2023,6,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,4519
+202306,2023-06-01,2023,6,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,25452
+202306,2023-06-01,2023,6,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,28
+202306,2023-06-01,2023,6,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,10717
+202306,2023-06-01,2023,6,MH-ALL,statewide,LNG,LNG,primary_reporting,5
+202306,2023-06-01,2023,6,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,486
+202306,2023-06-01,2023,6,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,901
+202306,2023-06-01,2023,6,MH-ALL,statewide,PETROL,Petrol,primary_reporting,124509
+202306,2023-06-01,2023,6,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,10458
+202306,2023-06-01,2023,6,MH-ALL,statewide,PETROL(E20),Petrol-E20,primary_reporting,2357
+202306,2023-06-01,2023,6,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,2756
+202306,2023-06-01,2023,6,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,2
+202306,2023-06-01,2023,6,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,37
+202307,2023-07-01,2023,7,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,5027
+202307,2023-07-01,2023,7,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,21045
+202307,2023-07-01,2023,7,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,35
+202307,2023-07-01,2023,7,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,12208
+202307,2023-07-01,2023,7,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,590
+202307,2023-07-01,2023,7,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,960
+202307,2023-07-01,2023,7,MH-ALL,statewide,PETROL,Petrol,primary_reporting,130271
+202307,2023-07-01,2023,7,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,10705
+202307,2023-07-01,2023,7,MH-ALL,statewide,PETROL(E20),Petrol-E20,primary_reporting,2630
+202307,2023-07-01,2023,7,MH-ALL,statewide,PETROL(E20)/CNG,Petrol-E20-CNG,primary_reporting,1
+202307,2023-07-01,2023,7,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,2432
+202307,2023-07-01,2023,7,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,23
+202308,2023-08-01,2023,8,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,5690
+202308,2023-08-01,2023,8,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,21211
+202308,2023-08-01,2023,8,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,34
+202308,2023-08-01,2023,8,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,14348
+202308,2023-08-01,2023,8,MH-ALL,statewide,LNG,LNG,primary_reporting,44
+202308,2023-08-01,2023,8,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,641
+202308,2023-08-01,2023,8,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1127
+202308,2023-08-01,2023,8,MH-ALL,statewide,PETROL,Petrol,primary_reporting,135071
+202308,2023-08-01,2023,8,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,12534
+202308,2023-08-01,2023,8,MH-ALL,statewide,PETROL(E20),Petrol-E20,primary_reporting,3407
+202308,2023-08-01,2023,8,MH-ALL,statewide,PETROL(E20)/CNG,Petrol-E20-CNG,primary_reporting,1
+202308,2023-08-01,2023,8,MH-ALL,statewide,PETROL(E20)/LPG,Petrol-E20-LPG,primary_reporting,1
+202308,2023-08-01,2023,8,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,2925
+202308,2023-08-01,2023,8,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,3
+202308,2023-08-01,2023,8,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,21
+202309,2023-09-01,2023,9,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,5347
+202309,2023-09-01,2023,9,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,21291
+202309,2023-09-01,2023,9,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,84
+202309,2023-09-01,2023,9,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,14146
+202309,2023-09-01,2023,9,MH-ALL,statewide,LNG,LNG,primary_reporting,6
+202309,2023-09-01,2023,9,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,460
+202309,2023-09-01,2023,9,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1062
+202309,2023-09-01,2023,9,MH-ALL,statewide,PETROL,Petrol,primary_reporting,136593
+202309,2023-09-01,2023,9,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,13707
+202309,2023-09-01,2023,9,MH-ALL,statewide,PETROL(E20),Petrol-E20,primary_reporting,3666
+202309,2023-09-01,2023,9,MH-ALL,statewide,PETROL(E20)/CNG,Petrol-E20-CNG,primary_reporting,1
+202309,2023-09-01,2023,9,MH-ALL,statewide,PETROL(E20)/HYBRID/CNG,Petrol-E20-Hybrid,primary_reporting,1
+202309,2023-09-01,2023,9,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,3385
+202309,2023-09-01,2023,9,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,9
+202309,2023-09-01,2023,9,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,26
+202310,2023-10-01,2023,10,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,6743
+202310,2023-10-01,2023,10,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,25340
+202310,2023-10-01,2023,10,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,84
+202310,2023-10-01,2023,10,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,18460
+202310,2023-10-01,2023,10,MH-ALL,statewide,LNG,LNG,primary_reporting,7
+202310,2023-10-01,2023,10,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,736
+202310,2023-10-01,2023,10,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1318
+202310,2023-10-01,2023,10,MH-ALL,statewide,PETROL,Petrol,primary_reporting,166907
+202310,2023-10-01,2023,10,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,14824
+202310,2023-10-01,2023,10,MH-ALL,statewide,PETROL(E20),Petrol-E20,primary_reporting,4640
+202310,2023-10-01,2023,10,MH-ALL,statewide,PETROL(E20)/HYBRID/CNG,Petrol-E20-Hybrid,primary_reporting,2
+202310,2023-10-01,2023,10,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,3543
+202310,2023-10-01,2023,10,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,6
+202310,2023-10-01,2023,10,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,40
+202311,2023-11-01,2023,11,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,7220
+202311,2023-11-01,2023,11,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,24807
+202311,2023-11-01,2023,11,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,74
+202311,2023-11-01,2023,11,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,21409
+202311,2023-11-01,2023,11,MH-ALL,statewide,LNG,LNG,primary_reporting,12
+202311,2023-11-01,2023,11,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,559
+202311,2023-11-01,2023,11,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,967
+202311,2023-11-01,2023,11,MH-ALL,statewide,PETROL,Petrol,primary_reporting,225838
+202311,2023-11-01,2023,11,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,15314
+202311,2023-11-01,2023,11,MH-ALL,statewide,PETROL(E20),Petrol-E20,primary_reporting,6259
+202311,2023-11-01,2023,11,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,3280
+202311,2023-11-01,2023,11,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,4
+202311,2023-11-01,2023,11,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,22
+202312,2023-12-01,2023,12,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,5206
+202312,2023-12-01,2023,12,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,20781
+202312,2023-12-01,2023,12,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,98
+202312,2023-12-01,2023,12,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,16697
+202312,2023-12-01,2023,12,MH-ALL,statewide,LNG,LNG,primary_reporting,2
+202312,2023-12-01,2023,12,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,517
+202312,2023-12-01,2023,12,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1266
+202312,2023-12-01,2023,12,MH-ALL,statewide,PETROL,Petrol,primary_reporting,169233
+202312,2023-12-01,2023,12,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,9508
+202312,2023-12-01,2023,12,MH-ALL,statewide,PETROL(E20),Petrol-E20,primary_reporting,4565
+202312,2023-12-01,2023,12,MH-ALL,statewide,PETROL(E20)/HYBRID/CNG,Petrol-E20-Hybrid,primary_reporting,2
+202312,2023-12-01,2023,12,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,2238
+202312,2023-12-01,2023,12,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,1
+202312,2023-12-01,2023,12,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,21
+202401,2024-01-01,2024,1,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,6875
+202401,2024-01-01,2024,1,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,30064
+202401,2024-01-01,2024,1,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,103
+202401,2024-01-01,2024,1,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,18892
+202401,2024-01-01,2024,1,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,730
+202401,2024-01-01,2024,1,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1133
+202401,2024-01-01,2024,1,MH-ALL,statewide,PETROL,Petrol,primary_reporting,172516
+202401,2024-01-01,2024,1,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,16332
+202401,2024-01-01,2024,1,MH-ALL,statewide,PETROL(E20),Petrol-E20,primary_reporting,4815
+202401,2024-01-01,2024,1,MH-ALL,statewide,PETROL(E20)/HYBRID/CNG,Petrol-E20-Hybrid,primary_reporting,1
+202401,2024-01-01,2024,1,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,3529
+202401,2024-01-01,2024,1,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,2
+202401,2024-01-01,2024,1,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,53
+202402,2024-02-01,2024,2,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,6178
+202402,2024-02-01,2024,2,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,26809
+202402,2024-02-01,2024,2,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,65
+202402,2024-02-01,2024,2,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,18026
+202402,2024-02-01,2024,2,MH-ALL,statewide,LNG,LNG,primary_reporting,24
+202402,2024-02-01,2024,2,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,626
+202402,2024-02-01,2024,2,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1122
+202402,2024-02-01,2024,2,MH-ALL,statewide,PETROL,Petrol,primary_reporting,142732
+202402,2024-02-01,2024,2,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,11373
+202402,2024-02-01,2024,2,MH-ALL,statewide,PETROL(E20),Petrol-E20,primary_reporting,4212
+202402,2024-02-01,2024,2,MH-ALL,statewide,PETROL(E20)/CNG,Petrol-E20-CNG,primary_reporting,1
+202402,2024-02-01,2024,2,MH-ALL,statewide,PETROL(E20)/LPG,Petrol-E20-LPG,primary_reporting,1
+202402,2024-02-01,2024,2,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,3025
+202402,2024-02-01,2024,2,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,7
+202402,2024-02-01,2024,2,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,33
+202403,2024-03-01,2024,3,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,6012
+202403,2024-03-01,2024,3,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,28024
+202403,2024-03-01,2024,3,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,181
+202403,2024-03-01,2024,3,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,29830
+202403,2024-03-01,2024,3,MH-ALL,statewide,LNG,LNG,primary_reporting,22
+202403,2024-03-01,2024,3,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,623
+202403,2024-03-01,2024,3,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1125
+202403,2024-03-01,2024,3,MH-ALL,statewide,PETROL,Petrol,primary_reporting,136161
+202403,2024-03-01,2024,3,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,11719
+202403,2024-03-01,2024,3,MH-ALL,statewide,PETROL(E20),Petrol-E20,primary_reporting,3938
+202403,2024-03-01,2024,3,MH-ALL,statewide,PETROL(E20)/HYBRID/CNG,Petrol-E20-Hybrid,primary_reporting,1
+202403,2024-03-01,2024,3,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,2686
+202403,2024-03-01,2024,3,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,38
+202403,2024-03-01,2024,3,MH-ALL,statewide,PURE EV,Pure EV,primary_reporting,154
+202403,2024-03-01,2024,3,MH-ALL,statewide,STRONG HYBRID EV,Strong Hybrid EV,primary_reporting,301
+202404,2024-04-01,2024,4,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,6325
+202404,2024-04-01,2024,4,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,27051
+202404,2024-04-01,2024,4,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,128
+202404,2024-04-01,2024,4,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,13906
+202404,2024-04-01,2024,4,MH-ALL,statewide,LNG,LNG,primary_reporting,13
+202404,2024-04-01,2024,4,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,569
+202404,2024-04-01,2024,4,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1165
+202404,2024-04-01,2024,4,MH-ALL,statewide,PETROL,Petrol,primary_reporting,173428
+202404,2024-04-01,2024,4,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,15178
+202404,2024-04-01,2024,4,MH-ALL,statewide,PETROL(E20),Petrol-E20,primary_reporting,5328
+202404,2024-04-01,2024,4,MH-ALL,statewide,PETROL(E20)/LPG,Petrol-E20-LPG,primary_reporting,1
+202404,2024-04-01,2024,4,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,2752
+202404,2024-04-01,2024,4,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,2
+202404,2024-04-01,2024,4,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,19
+202404,2024-04-01,2024,4,MH-ALL,statewide,PURE EV,Pure EV,primary_reporting,355
+202404,2024-04-01,2024,4,MH-ALL,statewide,STRONG HYBRID EV,Strong Hybrid EV,primary_reporting,589
+202405,2024-05-01,2024,5,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,5483
+202405,2024-05-01,2024,5,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,23862
+202405,2024-05-01,2024,5,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,110
+202405,2024-05-01,2024,5,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,13510
+202405,2024-05-01,2024,5,MH-ALL,statewide,LNG,LNG,primary_reporting,33
+202405,2024-05-01,2024,5,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,534
+202405,2024-05-01,2024,5,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1044
+202405,2024-05-01,2024,5,MH-ALL,statewide,PLUG-IN HYBRID EV,PHEV,primary_reporting,1
+202405,2024-05-01,2024,5,MH-ALL,statewide,PETROL,Petrol,primary_reporting,157136
+202405,2024-05-01,2024,5,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,13928
+202405,2024-05-01,2024,5,MH-ALL,statewide,PETROL(E20),Petrol-E20,primary_reporting,4622
+202405,2024-05-01,2024,5,MH-ALL,statewide,PETROL(E20)/CNG,Petrol-E20-CNG,primary_reporting,1
+202405,2024-05-01,2024,5,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,2247
+202405,2024-05-01,2024,5,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,3
+202405,2024-05-01,2024,5,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,27
+202405,2024-05-01,2024,5,MH-ALL,statewide,PURE EV,Pure EV,primary_reporting,1815
+202405,2024-05-01,2024,5,MH-ALL,statewide,STRONG HYBRID EV,Strong Hybrid EV,primary_reporting,659
+202406,2024-06-01,2024,6,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,5008
+202406,2024-06-01,2024,6,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,21424
+202406,2024-06-01,2024,6,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,73
+202406,2024-06-01,2024,6,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,11205
+202406,2024-06-01,2024,6,MH-ALL,statewide,LNG,LNG,primary_reporting,14
+202406,2024-06-01,2024,6,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,542
+202406,2024-06-01,2024,6,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,782
+202406,2024-06-01,2024,6,MH-ALL,statewide,PETROL,Petrol,primary_reporting,131561
+202406,2024-06-01,2024,6,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,11338
+202406,2024-06-01,2024,6,MH-ALL,statewide,PETROL(E20),Petrol-E20,primary_reporting,4207
+202406,2024-06-01,2024,6,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,1843
+202406,2024-06-01,2024,6,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,4
+202406,2024-06-01,2024,6,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,31
+202406,2024-06-01,2024,6,MH-ALL,statewide,PURE EV,Pure EV,primary_reporting,4069
+202406,2024-06-01,2024,6,MH-ALL,statewide,STRONG HYBRID EV,Strong Hybrid EV,primary_reporting,604
+202407,2024-07-01,2024,7,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,6187
+202407,2024-07-01,2024,7,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,24125
+202407,2024-07-01,2024,7,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,70
+202407,2024-07-01,2024,7,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,12663
+202407,2024-07-01,2024,7,MH-ALL,statewide,LNG,LNG,primary_reporting,2
+202407,2024-07-01,2024,7,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,587
+202407,2024-07-01,2024,7,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,802
+202407,2024-07-01,2024,7,MH-ALL,statewide,PETROL,Petrol,primary_reporting,133619
+202407,2024-07-01,2024,7,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,12948
+202407,2024-07-01,2024,7,MH-ALL,statewide,PETROL(E20),Petrol-E20,primary_reporting,3936
+202407,2024-07-01,2024,7,MH-ALL,statewide,PETROL(E20)/HYBRID/CNG,Petrol-E20-Hybrid,primary_reporting,2
+202407,2024-07-01,2024,7,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,1925
+202407,2024-07-01,2024,7,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,5
+202407,2024-07-01,2024,7,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,30
+202407,2024-07-01,2024,7,MH-ALL,statewide,PURE EV,Pure EV,primary_reporting,8225
+202407,2024-07-01,2024,7,MH-ALL,statewide,STRONG HYBRID EV,Strong Hybrid EV,primary_reporting,996
+202408,2024-08-01,2024,8,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,7668
+202408,2024-08-01,2024,8,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,22881
+202408,2024-08-01,2024,8,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,68
+202408,2024-08-01,2024,8,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,9391
+202408,2024-08-01,2024,8,MH-ALL,statewide,LNG,LNG,primary_reporting,21
+202408,2024-08-01,2024,8,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,607
+202408,2024-08-01,2024,8,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,832
+202408,2024-08-01,2024,8,MH-ALL,statewide,PETROL,Petrol,primary_reporting,132049
+202408,2024-08-01,2024,8,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,13989
+202408,2024-08-01,2024,8,MH-ALL,statewide,PETROL(E20),Petrol-E20,primary_reporting,4178
+202408,2024-08-01,2024,8,MH-ALL,statewide,PETROL(E20)/CNG,Petrol-E20-CNG,primary_reporting,1
+202408,2024-08-01,2024,8,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,2010
+202408,2024-08-01,2024,8,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,4
+202408,2024-08-01,2024,8,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,52
+202408,2024-08-01,2024,8,MH-ALL,statewide,PURE EV,Pure EV,primary_reporting,7406
+202408,2024-08-01,2024,8,MH-ALL,statewide,STRONG HYBRID EV,Strong Hybrid EV,primary_reporting,1155
+202409,2024-09-01,2024,9,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,6716
+202409,2024-09-01,2024,9,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,21434
+202409,2024-09-01,2024,9,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,76
+202409,2024-09-01,2024,9,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,7148
+202409,2024-09-01,2024,9,MH-ALL,statewide,LNG,LNG,primary_reporting,38
+202409,2024-09-01,2024,9,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,497
+202409,2024-09-01,2024,9,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,934
+202409,2024-09-01,2024,9,MH-ALL,statewide,PLUG-IN HYBRID EV,PHEV,primary_reporting,5
+202409,2024-09-01,2024,9,MH-ALL,statewide,PETROL,Petrol,primary_reporting,130171
+202409,2024-09-01,2024,9,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,12804
+202409,2024-09-01,2024,9,MH-ALL,statewide,PETROL(E20),Petrol-E20,primary_reporting,3833
+202409,2024-09-01,2024,9,MH-ALL,statewide,PETROL(E20)/LPG,Petrol-E20-LPG,primary_reporting,1
+202409,2024-09-01,2024,9,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,1767
+202409,2024-09-01,2024,9,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,4
+202409,2024-09-01,2024,9,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,48
+202409,2024-09-01,2024,9,MH-ALL,statewide,PURE EV,Pure EV,primary_reporting,11030
+202409,2024-09-01,2024,9,MH-ALL,statewide,STRONG HYBRID EV,Strong Hybrid EV,primary_reporting,991
+202410,2024-10-01,2024,10,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,9739
+202410,2024-10-01,2024,10,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,35979
+202410,2024-10-01,2024,10,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,127
+202410,2024-10-01,2024,10,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,9898
+202410,2024-10-01,2024,10,MH-ALL,statewide,ETHANOL(E100),Ethanol,primary_reporting,2
+202410,2024-10-01,2024,10,MH-ALL,statewide,LNG,LNG,primary_reporting,21
+202410,2024-10-01,2024,10,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,710
+202410,2024-10-01,2024,10,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1997
+202410,2024-10-01,2024,10,MH-ALL,statewide,PLUG-IN HYBRID EV,PHEV,primary_reporting,3
+202410,2024-10-01,2024,10,MH-ALL,statewide,PETROL,Petrol,primary_reporting,246702
+202410,2024-10-01,2024,10,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,25042
+202410,2024-10-01,2024,10,MH-ALL,statewide,PETROL(E20),Petrol-E20,primary_reporting,8309
+202410,2024-10-01,2024,10,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,3127
+202410,2024-10-01,2024,10,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,4
+202410,2024-10-01,2024,10,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,67
+202410,2024-10-01,2024,10,MH-ALL,statewide,PURE EV,Pure EV,primary_reporting,22694
+202410,2024-10-01,2024,10,MH-ALL,statewide,STRONG HYBRID EV,Strong Hybrid EV,primary_reporting,1619
+202411,2024-11-01,2024,11,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,7402
+202411,2024-11-01,2024,11,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,26082
+202411,2024-11-01,2024,11,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,78
+202411,2024-11-01,2024,11,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,6606
+202411,2024-11-01,2024,11,MH-ALL,statewide,ETHANOL(E100),Ethanol,primary_reporting,26
+202411,2024-11-01,2024,11,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,479
+202411,2024-11-01,2024,11,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1362
+202411,2024-11-01,2024,11,MH-ALL,statewide,PLUG-IN HYBRID EV,PHEV,primary_reporting,3
+202411,2024-11-01,2024,11,MH-ALL,statewide,PETROL,Petrol,primary_reporting,250563
+202411,2024-11-01,2024,11,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,13093
+202411,2024-11-01,2024,11,MH-ALL,statewide,PETROL(E20),Petrol-E20,primary_reporting,7580
+202411,2024-11-01,2024,11,MH-ALL,statewide,PETROL(E20)/LPG,Petrol-E20-LPG,primary_reporting,1
+202411,2024-11-01,2024,11,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,1469
+202411,2024-11-01,2024,11,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,3
+202411,2024-11-01,2024,11,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,47
+202411,2024-11-01,2024,11,MH-ALL,statewide,PURE EV,Pure EV,primary_reporting,17130
+202411,2024-11-01,2024,11,MH-ALL,statewide,STRONG HYBRID EV,Strong Hybrid EV,primary_reporting,931
+202412,2024-12-01,2024,12,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,6795
+202412,2024-12-01,2024,12,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,25926
+202412,2024-12-01,2024,12,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,93
+202412,2024-12-01,2024,12,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,3899
+202412,2024-12-01,2024,12,MH-ALL,statewide,ETHANOL(E100),Ethanol,primary_reporting,24
+202412,2024-12-01,2024,12,MH-ALL,statewide,LNG,LNG,primary_reporting,2
+202412,2024-12-01,2024,12,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,463
+202412,2024-12-01,2024,12,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1394
+202412,2024-12-01,2024,12,MH-ALL,statewide,PETROL,Petrol,primary_reporting,157712
+202412,2024-12-01,2024,12,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,10978
+202412,2024-12-01,2024,12,MH-ALL,statewide,PETROL(E20),Petrol-E20,primary_reporting,4115
+202412,2024-12-01,2024,12,MH-ALL,statewide,PETROL(E20)/LPG,Petrol-E20-LPG,primary_reporting,1
+202412,2024-12-01,2024,12,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,1581
+202412,2024-12-01,2024,12,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,2
+202412,2024-12-01,2024,12,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,33
+202412,2024-12-01,2024,12,MH-ALL,statewide,PURE EV,Pure EV,primary_reporting,13958
+202412,2024-12-01,2024,12,MH-ALL,statewide,STRONG HYBRID EV,Strong Hybrid EV,primary_reporting,1088
+202501,2025-01-01,2025,1,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,8598
+202501,2025-01-01,2025,1,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,36947
+202501,2025-01-01,2025,1,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,165
+202501,2025-01-01,2025,1,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,5358
+202501,2025-01-01,2025,1,MH-ALL,statewide,ETHANOL(E100),Ethanol,primary_reporting,40
+202501,2025-01-01,2025,1,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,822
+202501,2025-01-01,2025,1,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1771
+202501,2025-01-01,2025,1,MH-ALL,statewide,PLUG-IN HYBRID EV,PHEV,primary_reporting,3
+202501,2025-01-01,2025,1,MH-ALL,statewide,PETROL,Petrol,primary_reporting,184862
+202501,2025-01-01,2025,1,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,24280
+202501,2025-01-01,2025,1,MH-ALL,statewide,PETROL(E20),Petrol-E20,primary_reporting,5737
+202501,2025-01-01,2025,1,MH-ALL,statewide,PETROL(E20)/CNG,Petrol-E20-CNG,primary_reporting,1
+202501,2025-01-01,2025,1,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,2693
+202501,2025-01-01,2025,1,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,3
+202501,2025-01-01,2025,1,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,78
+202501,2025-01-01,2025,1,MH-ALL,statewide,PURE EV,Pure EV,primary_reporting,16878
+202501,2025-01-01,2025,1,MH-ALL,statewide,STRONG HYBRID EV,Strong Hybrid EV,primary_reporting,1558
+202502,2025-02-01,2025,2,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,6583
+202502,2025-02-01,2025,2,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,25150
+202502,2025-02-01,2025,2,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,97
+202502,2025-02-01,2025,2,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,3166
+202502,2025-02-01,2025,2,MH-ALL,statewide,ETHANOL(E100),Ethanol,primary_reporting,18
+202502,2025-02-01,2025,2,MH-ALL,statewide,LNG,LNG,primary_reporting,25
+202502,2025-02-01,2025,2,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,594
+202502,2025-02-01,2025,2,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1219
+202502,2025-02-01,2025,2,MH-ALL,statewide,PLUG-IN HYBRID EV,PHEV,primary_reporting,3
+202502,2025-02-01,2025,2,MH-ALL,statewide,PETROL,Petrol,primary_reporting,130044
+202502,2025-02-01,2025,2,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,11973
+202502,2025-02-01,2025,2,MH-ALL,statewide,PETROL(E20),Petrol-E20,primary_reporting,4743
+202502,2025-02-01,2025,2,MH-ALL,statewide,PETROL(E20)/CNG,Petrol-E20-CNG,primary_reporting,2
+202502,2025-02-01,2025,2,MH-ALL,statewide,PETROL(E20)/HYBRID/CNG,Petrol-E20-Hybrid,primary_reporting,1
+202502,2025-02-01,2025,2,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,1133
+202502,2025-02-01,2025,2,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,46
+202502,2025-02-01,2025,2,MH-ALL,statewide,PURE EV,Pure EV,primary_reporting,12508
+202502,2025-02-01,2025,2,MH-ALL,statewide,STRONG HYBRID EV,Strong Hybrid EV,primary_reporting,894
+202503,2025-03-01,2025,3,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,7612
+202503,2025-03-01,2025,3,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,34826
+202503,2025-03-01,2025,3,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,140
+202503,2025-03-01,2025,3,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,3988
+202503,2025-03-01,2025,3,MH-ALL,statewide,ETHANOL(E100),Ethanol,primary_reporting,23
+202503,2025-03-01,2025,3,MH-ALL,statewide,LNG,LNG,primary_reporting,49
+202503,2025-03-01,2025,3,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,629
+202503,2025-03-01,2025,3,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1500
+202503,2025-03-01,2025,3,MH-ALL,statewide,PLUG-IN HYBRID EV,PHEV,primary_reporting,4
+202503,2025-03-01,2025,3,MH-ALL,statewide,PETROL,Petrol,primary_reporting,155357
+202503,2025-03-01,2025,3,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,19934
+202503,2025-03-01,2025,3,MH-ALL,statewide,PETROL(E20),Petrol-E20,primary_reporting,9894
+202503,2025-03-01,2025,3,MH-ALL,statewide,PETROL(E20)/CNG,Petrol-E20-CNG,primary_reporting,6
+202503,2025-03-01,2025,3,MH-ALL,statewide,PETROL(E20)/HYBRID/CNG,Petrol-E20-Hybrid,primary_reporting,1
+202503,2025-03-01,2025,3,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,1910
+202503,2025-03-01,2025,3,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,2
+202503,2025-03-01,2025,3,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,58
+202503,2025-03-01,2025,3,MH-ALL,statewide,PURE EV,Pure EV,primary_reporting,29488
+202503,2025-03-01,2025,3,MH-ALL,statewide,STRONG HYBRID EV,Strong Hybrid EV,primary_reporting,1585
+202504,2025-04-01,2025,4,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,7385
+202504,2025-04-01,2025,4,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,29437
+202504,2025-04-01,2025,4,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,104
+202504,2025-04-01,2025,4,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,2575
+202504,2025-04-01,2025,4,MH-ALL,statewide,ETHANOL(E100),Ethanol,primary_reporting,28
+202504,2025-04-01,2025,4,MH-ALL,statewide,LNG,LNG,primary_reporting,24
+202504,2025-04-01,2025,4,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,588
+202504,2025-04-01,2025,4,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1239
+202504,2025-04-01,2025,4,MH-ALL,statewide,PLUG-IN HYBRID EV,PHEV,primary_reporting,3
+202504,2025-04-01,2025,4,MH-ALL,statewide,PETROL,Petrol,primary_reporting,175975
+202504,2025-04-01,2025,4,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,15163
+202504,2025-04-01,2025,4,MH-ALL,statewide,PETROL(E20),Petrol-E20,primary_reporting,24614
+202504,2025-04-01,2025,4,MH-ALL,statewide,PETROL(E20)/CNG,Petrol-E20-CNG,primary_reporting,6
+202504,2025-04-01,2025,4,MH-ALL,statewide,PETROL(E20)/LPG,Petrol-E20-LPG,primary_reporting,1
+202504,2025-04-01,2025,4,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,1618
+202504,2025-04-01,2025,4,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,1
+202504,2025-04-01,2025,4,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,38
+202504,2025-04-01,2025,4,MH-ALL,statewide,PURE EV,Pure EV,primary_reporting,17079
+202504,2025-04-01,2025,4,MH-ALL,statewide,STRONG HYBRID EV,Strong Hybrid EV,primary_reporting,1299
+202505,2025-05-01,2025,5,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,5893
+202505,2025-05-01,2025,5,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,25785
+202505,2025-05-01,2025,5,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,87
+202505,2025-05-01,2025,5,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,2457
+202505,2025-05-01,2025,5,MH-ALL,statewide,ETHANOL(E100),Ethanol,primary_reporting,19
+202505,2025-05-01,2025,5,MH-ALL,statewide,LNG,LNG,primary_reporting,10
+202505,2025-05-01,2025,5,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,621
+202505,2025-05-01,2025,5,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1189
+202505,2025-05-01,2025,5,MH-ALL,statewide,PETROL,Petrol,primary_reporting,126132
+202505,2025-05-01,2025,5,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,13291
+202505,2025-05-01,2025,5,MH-ALL,statewide,PETROL(E20),Petrol-E20,primary_reporting,34616
+202505,2025-05-01,2025,5,MH-ALL,statewide,PETROL(E20)/CNG,Petrol-E20-CNG,primary_reporting,9
+202505,2025-05-01,2025,5,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,1395
+202505,2025-05-01,2025,5,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,36
+202505,2025-05-01,2025,5,MH-ALL,statewide,PURE EV,Pure EV,primary_reporting,17247
+202505,2025-05-01,2025,5,MH-ALL,statewide,STRONG HYBRID EV,Strong Hybrid EV,primary_reporting,1054
+202506,2025-06-01,2025,6,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,6114
+202506,2025-06-01,2025,6,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,26833
+202506,2025-06-01,2025,6,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,109
+202506,2025-06-01,2025,6,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,2370
+202506,2025-06-01,2025,6,MH-ALL,statewide,ETHANOL(E100),Ethanol,primary_reporting,20
+202506,2025-06-01,2025,6,MH-ALL,statewide,LNG,LNG,primary_reporting,25
+202506,2025-06-01,2025,6,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,622
+202506,2025-06-01,2025,6,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1051
+202506,2025-06-01,2025,6,MH-ALL,statewide,PLUG-IN HYBRID EV,PHEV,primary_reporting,2
+202506,2025-06-01,2025,6,MH-ALL,statewide,PETROL,Petrol,primary_reporting,109061
+202506,2025-06-01,2025,6,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,13709
+202506,2025-06-01,2025,6,MH-ALL,statewide,PETROL(E20),Petrol-E20,primary_reporting,38267
+202506,2025-06-01,2025,6,MH-ALL,statewide,PETROL(E20)/CNG,Petrol-E20-CNG,primary_reporting,12
+202506,2025-06-01,2025,6,MH-ALL,statewide,PETROL(E20)/HYBRID/CNG,Petrol-E20-Hybrid,primary_reporting,1
+202506,2025-06-01,2025,6,MH-ALL,statewide,PETROL(E20)/LPG,Petrol-E20-LPG,primary_reporting,2
+202506,2025-06-01,2025,6,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,1279
+202506,2025-06-01,2025,6,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,1
+202506,2025-06-01,2025,6,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,43
+202506,2025-06-01,2025,6,MH-ALL,statewide,PURE EV,Pure EV,primary_reporting,17904
+202506,2025-06-01,2025,6,MH-ALL,statewide,STRONG HYBRID EV,Strong Hybrid EV,primary_reporting,1162
+202507,2025-07-01,2025,7,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,6653
+202507,2025-07-01,2025,7,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,26188
+202507,2025-07-01,2025,7,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,156
+202507,2025-07-01,2025,7,MH-ALL,statewide,DUAL DIESEL/LNG,Diesel-LNG,primary_reporting,9
+202507,2025-07-01,2025,7,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,2884
+202507,2025-07-01,2025,7,MH-ALL,statewide,ETHANOL(E100),Ethanol,primary_reporting,19
+202507,2025-07-01,2025,7,MH-ALL,statewide,LNG,LNG,primary_reporting,47
+202507,2025-07-01,2025,7,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,657
+202507,2025-07-01,2025,7,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1043
+202507,2025-07-01,2025,7,MH-ALL,statewide,PLUG-IN HYBRID EV,PHEV,primary_reporting,1
+202507,2025-07-01,2025,7,MH-ALL,statewide,PETROL,Petrol,primary_reporting,113378
+202507,2025-07-01,2025,7,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,15660
+202507,2025-07-01,2025,7,MH-ALL,statewide,PETROL(E20),Petrol-E20,primary_reporting,44732
+202507,2025-07-01,2025,7,MH-ALL,statewide,PETROL(E20)/CNG,Petrol-E20-CNG,primary_reporting,10
+202507,2025-07-01,2025,7,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,1612
+202507,2025-07-01,2025,7,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,2
+202507,2025-07-01,2025,7,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,34
+202507,2025-07-01,2025,7,MH-ALL,statewide,PURE EV,Pure EV,primary_reporting,17690
+202507,2025-07-01,2025,7,MH-ALL,statewide,STRONG HYBRID EV,Strong Hybrid EV,primary_reporting,1295
+202508,2025-08-01,2025,8,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,6321
+202508,2025-08-01,2025,8,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,26908
+202508,2025-08-01,2025,8,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,148
+202508,2025-08-01,2025,8,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,2442
+202508,2025-08-01,2025,8,MH-ALL,statewide,ETHANOL(E100),Ethanol,primary_reporting,17
+202508,2025-08-01,2025,8,MH-ALL,statewide,LNG,LNG,primary_reporting,35
+202508,2025-08-01,2025,8,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,564
+202508,2025-08-01,2025,8,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1224
+202508,2025-08-01,2025,8,MH-ALL,statewide,PLUG-IN HYBRID EV,PHEV,primary_reporting,1
+202508,2025-08-01,2025,8,MH-ALL,statewide,PETROL,Petrol,primary_reporting,114188
+202508,2025-08-01,2025,8,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,16378
+202508,2025-08-01,2025,8,MH-ALL,statewide,PETROL(E20),Petrol-E20,primary_reporting,48292
+202508,2025-08-01,2025,8,MH-ALL,statewide,PETROL(E20)/CNG,Petrol-E20-CNG,primary_reporting,17
+202508,2025-08-01,2025,8,MH-ALL,statewide,PETROL(E20)/HYBRID/CNG,Petrol-E20-Hybrid,primary_reporting,1
+202508,2025-08-01,2025,8,MH-ALL,statewide,PETROL(E20)/LPG,Petrol-E20-LPG,primary_reporting,1
+202508,2025-08-01,2025,8,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,1673
+202508,2025-08-01,2025,8,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,3
+202508,2025-08-01,2025,8,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,52
+202508,2025-08-01,2025,8,MH-ALL,statewide,PURE EV,Pure EV,primary_reporting,20136
+202508,2025-08-01,2025,8,MH-ALL,statewide,STRONG HYBRID EV,Strong Hybrid EV,primary_reporting,1277
+202509,2025-09-01,2025,9,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,5535
+202509,2025-09-01,2025,9,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,25715
+202509,2025-09-01,2025,9,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,141
+202509,2025-09-01,2025,9,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,1772
+202509,2025-09-01,2025,9,MH-ALL,statewide,ETHANOL(E100),Ethanol,primary_reporting,7
+202509,2025-09-01,2025,9,MH-ALL,statewide,LNG,LNG,primary_reporting,36
+202509,2025-09-01,2025,9,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,554
+202509,2025-09-01,2025,9,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1805
+202509,2025-09-01,2025,9,MH-ALL,statewide,PETROL,Petrol,primary_reporting,95043
+202509,2025-09-01,2025,9,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,14745
+202509,2025-09-01,2025,9,MH-ALL,statewide,PETROL(E20),Petrol-E20,primary_reporting,45020
+202509,2025-09-01,2025,9,MH-ALL,statewide,PETROL(E20)/CNG,Petrol-E20-CNG,primary_reporting,243
+202509,2025-09-01,2025,9,MH-ALL,statewide,PETROL(E20)/HYBRID,Petrol-E20-Hybrid,primary_reporting,24
+202509,2025-09-01,2025,9,MH-ALL,statewide,PETROL(E20)/LPG,Petrol-E20-LPG,primary_reporting,1
+202509,2025-09-01,2025,9,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,1239
+202509,2025-09-01,2025,9,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,1
+202509,2025-09-01,2025,9,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,52
+202509,2025-09-01,2025,9,MH-ALL,statewide,PURE EV,Pure EV,primary_reporting,18151
+202509,2025-09-01,2025,9,MH-ALL,statewide,STRONG HYBRID EV,Strong Hybrid EV,primary_reporting,979
+202510,2025-10-01,2025,10,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,9220
+202510,2025-10-01,2025,10,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,46435
+202510,2025-10-01,2025,10,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,228
+202510,2025-10-01,2025,10,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,2215
+202510,2025-10-01,2025,10,MH-ALL,statewide,ETHANOL(E100),Ethanol,primary_reporting,19
+202510,2025-10-01,2025,10,MH-ALL,statewide,LNG,LNG,primary_reporting,40
+202510,2025-10-01,2025,10,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,793
+202510,2025-10-01,2025,10,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,2289
+202510,2025-10-01,2025,10,MH-ALL,statewide,PLUG-IN HYBRID EV,PHEV,primary_reporting,1
+202510,2025-10-01,2025,10,MH-ALL,statewide,PETROL,Petrol,primary_reporting,218646
+202510,2025-10-01,2025,10,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,28113
+202510,2025-10-01,2025,10,MH-ALL,statewide,PETROL(E20),Petrol-E20,primary_reporting,106713
+202510,2025-10-01,2025,10,MH-ALL,statewide,PETROL(E20)/CNG,Petrol-E20-CNG,primary_reporting,1222
+202510,2025-10-01,2025,10,MH-ALL,statewide,PETROL(E20)/HYBRID,Petrol-E20-Hybrid,primary_reporting,296
+202510,2025-10-01,2025,10,MH-ALL,statewide,PETROL(E20)/LPG,Petrol-E20-LPG,primary_reporting,2
+202510,2025-10-01,2025,10,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,2438
+202510,2025-10-01,2025,10,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,1
+202510,2025-10-01,2025,10,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,106
+202510,2025-10-01,2025,10,MH-ALL,statewide,PURE EV,Pure EV,primary_reporting,28289
+202510,2025-10-01,2025,10,MH-ALL,statewide,STRONG HYBRID EV,Strong Hybrid EV,primary_reporting,1868
+202511,2025-11-01,2025,11,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,7821
+202511,2025-11-01,2025,11,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,56306
+202511,2025-11-01,2025,11,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,135
+202511,2025-11-01,2025,11,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,1960
+202511,2025-11-01,2025,11,MH-ALL,statewide,ETHANOL(E100),Ethanol,primary_reporting,8
+202511,2025-11-01,2025,11,MH-ALL,statewide,LNG,LNG,primary_reporting,43
+202511,2025-11-01,2025,11,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,805
+202511,2025-11-01,2025,11,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,2595
+202511,2025-11-01,2025,11,MH-ALL,statewide,PETROL,Petrol,primary_reporting,152499
+202511,2025-11-01,2025,11,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,8078
+202511,2025-11-01,2025,11,MH-ALL,statewide,PETROL(E20),Petrol-E20,primary_reporting,144013
+202511,2025-11-01,2025,11,MH-ALL,statewide,PETROL(E20)/CNG,Petrol-E20-CNG,primary_reporting,9861
+202511,2025-11-01,2025,11,MH-ALL,statewide,PETROL(E20)/HYBRID,Petrol-E20-Hybrid,primary_reporting,1360
+202511,2025-11-01,2025,11,MH-ALL,statewide,PETROL(E20)/LPG,Petrol-E20-LPG,primary_reporting,34
+202511,2025-11-01,2025,11,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,569
+202511,2025-11-01,2025,11,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,1
+202511,2025-11-01,2025,11,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,35
+202511,2025-11-01,2025,11,MH-ALL,statewide,PURE EV,Pure EV,primary_reporting,20780
+202511,2025-11-01,2025,11,MH-ALL,statewide,STRONG HYBRID EV,Strong Hybrid EV,primary_reporting,1350
+202512,2025-12-01,2025,12,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,6287
+202512,2025-12-01,2025,12,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,44594
+202512,2025-12-01,2025,12,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,117
+202512,2025-12-01,2025,12,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,1651
+202512,2025-12-01,2025,12,MH-ALL,statewide,ETHANOL(E100),Ethanol,primary_reporting,3
+202512,2025-12-01,2025,12,MH-ALL,statewide,LNG,LNG,primary_reporting,24
+202512,2025-12-01,2025,12,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,640
+202512,2025-12-01,2025,12,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,2886
+202512,2025-12-01,2025,12,MH-ALL,statewide,PETROL,Petrol,primary_reporting,51513
+202512,2025-12-01,2025,12,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,5633
+202512,2025-12-01,2025,12,MH-ALL,statewide,PETROL(E20),Petrol-E20,primary_reporting,123145
+202512,2025-12-01,2025,12,MH-ALL,statewide,PETROL(E20)/CNG,Petrol-E20-CNG,primary_reporting,10338
+202512,2025-12-01,2025,12,MH-ALL,statewide,PETROL(E20)/HYBRID,Petrol-E20-Hybrid,primary_reporting,1440
+202512,2025-12-01,2025,12,MH-ALL,statewide,PETROL(E20)/HYBRID/CNG,Petrol-E20-Hybrid,primary_reporting,1
+202512,2025-12-01,2025,12,MH-ALL,statewide,PETROL(E20)/LPG,Petrol-E20-LPG,primary_reporting,25
+202512,2025-12-01,2025,12,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,515
+202512,2025-12-01,2025,12,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,28
+202512,2025-12-01,2025,12,MH-ALL,statewide,PURE EV,Pure EV,primary_reporting,17571
+202512,2025-12-01,2025,12,MH-ALL,statewide,STRONG HYBRID EV,Strong Hybrid EV,primary_reporting,1389
+202601,2026-01-01,2026,1,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,8261
+202601,2026-01-01,2026,1,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,43159
+202601,2026-01-01,2026,1,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,179
+202601,2026-01-01,2026,1,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,1800
+202601,2026-01-01,2026,1,MH-ALL,statewide,ETHANOL(E100),Ethanol,primary_reporting,1
+202601,2026-01-01,2026,1,MH-ALL,statewide,LNG,LNG,primary_reporting,56
+202601,2026-01-01,2026,1,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,886
+202601,2026-01-01,2026,1,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,2304
+202601,2026-01-01,2026,1,MH-ALL,statewide,PLUG-IN HYBRID EV,PHEV,primary_reporting,1
+202601,2026-01-01,2026,1,MH-ALL,statewide,PETROL,Petrol,primary_reporting,71561
+202601,2026-01-01,2026,1,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,7009
+202601,2026-01-01,2026,1,MH-ALL,statewide,PETROL(E20),Petrol-E20,primary_reporting,160830
+202601,2026-01-01,2026,1,MH-ALL,statewide,PETROL(E20)/CNG,Petrol-E20-CNG,primary_reporting,18653
+202601,2026-01-01,2026,1,MH-ALL,statewide,PETROL(E20)/HYBRID,Petrol-E20-Hybrid,primary_reporting,1911
+202601,2026-01-01,2026,1,MH-ALL,statewide,PETROL(E20)/LPG,Petrol-E20-LPG,primary_reporting,50
+202601,2026-01-01,2026,1,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,741
+202601,2026-01-01,2026,1,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,1
+202601,2026-01-01,2026,1,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,36
+202601,2026-01-01,2026,1,MH-ALL,statewide,PURE EV,Pure EV,primary_reporting,23377
+202601,2026-01-01,2026,1,MH-ALL,statewide,STRONG HYBRID EV,Strong Hybrid EV,primary_reporting,1810
+202602,2026-02-01,2026,2,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,7757
+202602,2026-02-01,2026,2,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,31391
+202602,2026-02-01,2026,2,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,138
+202602,2026-02-01,2026,2,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,1558
+202602,2026-02-01,2026,2,MH-ALL,statewide,ETHANOL(E100),Ethanol,primary_reporting,1
+202602,2026-02-01,2026,2,MH-ALL,statewide,LNG,LNG,primary_reporting,5
+202602,2026-02-01,2026,2,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,908
+202602,2026-02-01,2026,2,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1628
+202602,2026-02-01,2026,2,MH-ALL,statewide,PETROL,Petrol,primary_reporting,59071
+202602,2026-02-01,2026,2,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,3079
+202602,2026-02-01,2026,2,MH-ALL,statewide,PETROL(E20),Petrol-E20,primary_reporting,129734
+202602,2026-02-01,2026,2,MH-ALL,statewide,PETROL(E20)/CNG,Petrol-E20-CNG,primary_reporting,14019
+202602,2026-02-01,2026,2,MH-ALL,statewide,PETROL(E20)/HYBRID,Petrol-E20-Hybrid,primary_reporting,1193
+202602,2026-02-01,2026,2,MH-ALL,statewide,PETROL(E20)/HYBRID/CNG,Petrol-E20-Hybrid,primary_reporting,1
+202602,2026-02-01,2026,2,MH-ALL,statewide,PETROL(E20)/LPG,Petrol-E20-LPG,primary_reporting,28
+202602,2026-02-01,2026,2,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,420
+202602,2026-02-01,2026,2,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,1
+202602,2026-02-01,2026,2,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,9
+202602,2026-02-01,2026,2,MH-ALL,statewide,PURE EV,Pure EV,primary_reporting,18689
+202602,2026-02-01,2026,2,MH-ALL,statewide,STRONG HYBRID EV,Strong Hybrid EV,primary_reporting,1329
+202603,2026-03-01,2026,3,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,7364
+202603,2026-03-01,2026,3,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,33084
+202603,2026-03-01,2026,3,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,192
+202603,2026-03-01,2026,3,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,2510
+202603,2026-03-01,2026,3,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,547
+202603,2026-03-01,2026,3,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1352
+202603,2026-03-01,2026,3,MH-ALL,statewide,PETROL,Petrol,primary_reporting,69515
+202603,2026-03-01,2026,3,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,2035
+202603,2026-03-01,2026,3,MH-ALL,statewide,PETROL(E20),Petrol-E20,primary_reporting,155840
+202603,2026-03-01,2026,3,MH-ALL,statewide,PETROL(E20)/CNG,Petrol-E20-CNG,primary_reporting,20454
+202603,2026-03-01,2026,3,MH-ALL,statewide,PETROL(E20)/HYBRID,Petrol-E20-Hybrid,primary_reporting,1596
+202603,2026-03-01,2026,3,MH-ALL,statewide,PETROL(E20)/HYBRID/CNG,Petrol-E20-Hybrid,primary_reporting,1
+202603,2026-03-01,2026,3,MH-ALL,statewide,PETROL(E20)/LPG,Petrol-E20-LPG,primary_reporting,15
+202603,2026-03-01,2026,3,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,570
+202603,2026-03-01,2026,3,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,3
+202603,2026-03-01,2026,3,MH-ALL,statewide,PURE EV,Pure EV,primary_reporting,35881
+202603,2026-03-01,2026,3,MH-ALL,statewide,STRONG HYBRID EV,Strong Hybrid EV,primary_reporting,1592
+202604,2026-04-01,2026,4,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,5738
+202604,2026-04-01,2026,4,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,30427
+202604,2026-04-01,2026,4,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,110
+202604,2026-04-01,2026,4,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,2129
+202604,2026-04-01,2026,4,MH-ALL,statewide,ETHANOL(E100),Ethanol,primary_reporting,1
+202604,2026-04-01,2026,4,MH-ALL,statewide,LNG,LNG,primary_reporting,15
+202604,2026-04-01,2026,4,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,451
+202604,2026-04-01,2026,4,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1192
+202604,2026-04-01,2026,4,MH-ALL,statewide,PETROL,Petrol,primary_reporting,58621
+202604,2026-04-01,2026,4,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,1621
+202604,2026-04-01,2026,4,MH-ALL,statewide,PETROL(E20),Petrol-E20,primary_reporting,153414
+202604,2026-04-01,2026,4,MH-ALL,statewide,PETROL(E20)/CNG,Petrol-E20-CNG,primary_reporting,17133
+202604,2026-04-01,2026,4,MH-ALL,statewide,PETROL(E20)/HYBRID,Petrol-E20-Hybrid,primary_reporting,1371
+202604,2026-04-01,2026,4,MH-ALL,statewide,PETROL(E20)/HYBRID/CNG,Petrol-E20-Hybrid,primary_reporting,1
+202604,2026-04-01,2026,4,MH-ALL,statewide,PETROL(E20)/LPG,Petrol-E20-LPG,primary_reporting,10
+202604,2026-04-01,2026,4,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,492
+202604,2026-04-01,2026,4,MH-ALL,statewide,PETROL/HYBRID/CNG,Petrol-Hybrid,primary_reporting,1
+202604,2026-04-01,2026,4,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,3
+202604,2026-04-01,2026,4,MH-ALL,statewide,PURE EV,Pure EV,primary_reporting,27894
+202604,2026-04-01,2026,4,MH-ALL,statewide,STRONG HYBRID EV,Strong Hybrid EV,primary_reporting,1469
+202605,2026-05-01,2026,5,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,3732
+202605,2026-05-01,2026,5,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,25049
+202605,2026-05-01,2026,5,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,124
+202605,2026-05-01,2026,5,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,1544
+202605,2026-05-01,2026,5,MH-ALL,statewide,LNG,LNG,primary_reporting,30
+202605,2026-05-01,2026,5,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,119
+202605,2026-05-01,2026,5,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,883
+202605,2026-05-01,2026,5,MH-ALL,statewide,PLUG-IN HYBRID EV,PHEV,primary_reporting,1
+202605,2026-05-01,2026,5,MH-ALL,statewide,PETROL,Petrol,primary_reporting,53034
+202605,2026-05-01,2026,5,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,1345
+202605,2026-05-01,2026,5,MH-ALL,statewide,PETROL(E20),Petrol-E20,primary_reporting,121054
+202605,2026-05-01,2026,5,MH-ALL,statewide,PETROL(E20)/CNG,Petrol-E20-CNG,primary_reporting,15939
+202605,2026-05-01,2026,5,MH-ALL,statewide,PETROL(E20)/HYBRID,Petrol-E20-Hybrid,primary_reporting,1165
+202605,2026-05-01,2026,5,MH-ALL,statewide,PETROL(E20)/LPG,Petrol-E20-LPG,primary_reporting,3
+202605,2026-05-01,2026,5,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,419
+202605,2026-05-01,2026,5,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,3
+202605,2026-05-01,2026,5,MH-ALL,statewide,PURE EV,Pure EV,primary_reporting,27265
+202605,2026-05-01,2026,5,MH-ALL,statewide,STRONG HYBRID EV,Strong Hybrid EV,primary_reporting,1235
+202606,2026-06-01,2026,6,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,4435
+202606,2026-06-01,2026,6,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,26467
+202606,2026-06-01,2026,6,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,119
+202606,2026-06-01,2026,6,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,1926
+202606,2026-06-01,2026,6,MH-ALL,statewide,LNG,LNG,primary_reporting,98
+202606,2026-06-01,2026,6,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,102
+202606,2026-06-01,2026,6,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,953
+202606,2026-06-01,2026,6,MH-ALL,statewide,PETROL,Petrol,primary_reporting,53377
+202606,2026-06-01,2026,6,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,1443
+202606,2026-06-01,2026,6,MH-ALL,statewide,PETROL(E20),Petrol-E20,primary_reporting,120573
+202606,2026-06-01,2026,6,MH-ALL,statewide,PETROL(E20)/CNG,Petrol-E20-CNG,primary_reporting,16686
+202606,2026-06-01,2026,6,MH-ALL,statewide,PETROL(E20)/HYBRID,Petrol-E20-Hybrid,primary_reporting,1058
+202606,2026-06-01,2026,6,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,514
+202606,2026-06-01,2026,6,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,4
+202606,2026-06-01,2026,6,MH-ALL,statewide,PURE EV,Pure EV,primary_reporting,33263
+202606,2026-06-01,2026,6,MH-ALL,statewide,STRONG HYBRID EV,Strong Hybrid EV,primary_reporting,1307
+202607,2026-07-01,2026,7,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,4670
+202607,2026-07-01,2026,7,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,29321
+202607,2026-07-01,2026,7,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,148
+202607,2026-07-01,2026,7,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,1490
+202607,2026-07-01,2026,7,MH-ALL,statewide,FLEX-FUEL(ETHANOL),Flex-Fuel (Ethanol),primary_reporting,3
+202607,2026-07-01,2026,7,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,108
+202607,2026-07-01,2026,7,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,899
+202607,2026-07-01,2026,7,MH-ALL,statewide,PETROL,Petrol,primary_reporting,53835
+202607,2026-07-01,2026,7,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,1847
+202607,2026-07-01,2026,7,MH-ALL,statewide,PETROL(E20),Petrol-E20,primary_reporting,127320
+202607,2026-07-01,2026,7,MH-ALL,statewide,PETROL(E20)/CNG,Petrol-E20-CNG,primary_reporting,18601
+202607,2026-07-01,2026,7,MH-ALL,statewide,PETROL(E20)/HYBRID,Petrol-E20-Hybrid,primary_reporting,1198
+202607,2026-07-01,2026,7,MH-ALL,statewide,PETROL(E20)/HYBRID/CNG,Petrol-E20-Hybrid,primary_reporting,1
+202607,2026-07-01,2026,7,MH-ALL,statewide,PETROL(E20)/LPG,Petrol-E20-LPG,primary_reporting,2
+202607,2026-07-01,2026,7,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,515
+202607,2026-07-01,2026,7,MH-ALL,statewide,PURE EV,Pure EV,primary_reporting,35376
+202607,2026-07-01,2026,7,MH-ALL,statewide,STRONG HYBRID EV,Strong Hybrid EV,primary_reporting,1445
+202608,2026-08-01,2026,8,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,3961
+202608,2026-08-01,2026,8,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,26955
+202608,2026-08-01,2026,8,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,145
+202608,2026-08-01,2026,8,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,878
+202608,2026-08-01,2026,8,MH-ALL,statewide,FLEX-FUEL(ETHANOL),Flex-Fuel (Ethanol),primary_reporting,92
+202608,2026-08-01,2026,8,MH-ALL,statewide,LNG,LNG,primary_reporting,1
+202608,2026-08-01,2026,8,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,59
+202608,2026-08-01,2026,8,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,695
+202608,2026-08-01,2026,8,MH-ALL,statewide,PETROL,Petrol,primary_reporting,53006
+202608,2026-08-01,2026,8,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,1540
+202608,2026-08-01,2026,8,MH-ALL,statewide,PETROL(E20),Petrol-E20,primary_reporting,127462
+202608,2026-08-01,2026,8,MH-ALL,statewide,PETROL(E20)/CNG,Petrol-E20-CNG,primary_reporting,18682
+202608,2026-08-01,2026,8,MH-ALL,statewide,PETROL(E20)/HYBRID,Petrol-E20-Hybrid,primary_reporting,1663
+202608,2026-08-01,2026,8,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,367
+202608,2026-08-01,2026,8,MH-ALL,statewide,PETROL/LPG,Petrol-LPG,primary_reporting,1
+202608,2026-08-01,2026,8,MH-ALL,statewide,PURE EV,Pure EV,primary_reporting,31120
+202608,2026-08-01,2026,8,MH-ALL,statewide,STRONG HYBRID EV,Strong Hybrid EV,primary_reporting,1113
+202609,2026-09-01,2026,9,MH-ALL,statewide,CNG ONLY,CNG,primary_reporting,3780
+202609,2026-09-01,2026,9,MH-ALL,statewide,DIESEL,Diesel,primary_reporting,33421
+202609,2026-09-01,2026,9,MH-ALL,statewide,DIESEL/HYBRID,Diesel-Hybrid,primary_reporting,181
+202609,2026-09-01,2026,9,MH-ALL,statewide,DUAL DIESEL/LNG,Diesel-LNG,primary_reporting,15
+202609,2026-09-01,2026,9,MH-ALL,statewide,ELECTRIC(BOV),Electric-BOV,primary_reporting,847
+202609,2026-09-01,2026,9,MH-ALL,statewide,ETHANOL(E100),Ethanol,primary_reporting,1
+202609,2026-09-01,2026,9,MH-ALL,statewide,FLEX-FUEL(ETHANOL),Flex-Fuel (Ethanol),primary_reporting,135
+202609,2026-09-01,2026,9,MH-ALL,statewide,LNG,LNG,primary_reporting,60
+202609,2026-09-01,2026,9,MH-ALL,statewide,LPG ONLY,LPG,primary_reporting,42
+202609,2026-09-01,2026,9,MH-ALL,statewide,NOT APPLICABLE,Not Applicable,primary_reporting,1045
+202609,2026-09-01,2026,9,MH-ALL,statewide,PLUG-IN HYBRID EV,PHEV,primary_reporting,1
+202609,2026-09-01,2026,9,MH-ALL,statewide,PETROL,Petrol,primary_reporting,54840
+202609,2026-09-01,2026,9,MH-ALL,statewide,PETROL/CNG,Petrol-CNG,primary_reporting,1634
+202609,2026-09-01,2026,9,MH-ALL,statewide,PETROL(E20),Petrol-E20,primary_reporting,144896
+202609,2026-09-01,2026,9,MH-ALL,statewide,PETROL(E20)/CNG,Petrol-E20-CNG,primary_reporting,19507
+202609,2026-09-01,2026,9,MH-ALL,statewide,PETROL(E20)/HYBRID,Petrol-E20-Hybrid,primary_reporting,1956
+202609,2026-09-01,2026,9,MH-ALL,statewide,PETROL(E20)/LPG,Petrol-E20-LPG,primary_reporting,1
+202609,2026-09-01,2026,9,MH-ALL,statewide,PETROL/HYBRID,Petrol-Hybrid,primary_reporting,540
+202609,2026-09-01,2026,9,MH-ALL,statewide,PURE EV,Pure EV,primary_reporting,38398
+202609,2026-09-01,2026,9,MH-ALL,statewide,STRONG HYBRID EV,Strong Hybrid EV,primary_reporting,1228

@@ -1,0 +1,191 @@
+================================================================================
+EXPLORATORY MARKET ANALYSIS: MAHARASHTRA VEHICLE REGISTRATIONS (2017–2026)
+Dataset: registrations_maharashtra_monthly.csv (location_id == 'MH-ALL')
+Generated: 2026-10-20
+================================================================================
+
+1. MONTHLY STATEWIDE REGISTRATION TRENDS & SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+The analyzed series consists of 117 complete continuous months from January 2017
+through September 2026 (201701 to 202609). The incomplete observation for
+October 2026 (202610, 140,498 units mid-month) is excluded to preserve
+econometric validity.
+
+DESCRIPTIVE STATISTICS ACROSS OPERATIONAL WINDOWS:
+Metric                 Full Series (2017-26)   Historical (2017-18)   Primary (2019-26)
+Observation Months:    117 months              24 months              93 months
+Mean:                  213,596.6               219,365.0              212,108.0
+Standard Deviation:    65,295.5                33,035.0               71,358.0
+Minimum:               5,758.0 (May 2020)      169,430.0 (Jul 2017)   5,758.0 (May 2020)
+25th Percentile:       185,927.0               198,913.8              181,140.0
+Median (50th):         206,993.0               216,149.5              204,326.0
+75th Percentile:       246,109.0               240,315.2              246,809.0
+Maximum:               448,934.0 (Oct 2025)    318,207.0 (Nov 2018)   448,934.0 (Oct 2025)
+
+ANNUAL TOTAL STATEWIDE REGISTRATIONS & TRAJECTORY:
+Year    Total Registrations    Months    YoY Growth    Period Classification
+2017    2,557,194              12        --            Historical baseline
+2018    2,707,565              12        +5.88%        Historical baseline / pre-NBFC crisis
+2019    2,305,796              12        -14.84%       NBFC liquidity crisis & pre-BS6 transition
+2020    1,774,656              12        -23.03%       COVID-19 pandemic shock
+2021    1,922,926              12        +8.35%        Partial recovery / Delta wave impact
+2022    2,373,080              12        +23.41%       Post-pandemic volume normalization
+2023    2,563,128              12        +8.01%        BS6 Phase 2 & initial E20 pilot
+2024    2,887,513              12        +12.66%       Broad-based powertrain diversification
+2025    3,288,402              12        +13.88%       Record volume / E20 scaling expansion
+2026    2,610,545               9 (9M)   +21.43%       Full E20 / EV transition phase
+
+
+2. YEAR-ON-YEAR (YoY) GROWTH DYNAMICS
+--------------------------------------------------------------------------------
+YoY growth is computed on a 12-month rolling lag:
+g_t = [(Y_t - Y_{t-12}) / Y_{t-12}] * 100%
+
+ANNUAL AVERAGE YoY GROWTH & EXTREMES:
+Year    Avg Monthly YoY    Lowest Single Month    Highest Single Month    Macroeconomic Driver
+2018    +8.08%             -19.64% (Dec)          +33.36% (Feb)           Strong credit early, festive deceleration
+2019    -15.21%            -27.71% (May)          +8.35% (Oct)            IL&FS crisis, insurance hike, BS4 clearance
+2020    -23.27%            -97.18% (May)          +42.50% (Mar)           March pre-buying, followed by lockdown freeze
+2021    +78.71%            -30.01% (Jan)          +515.60% (May)          Arithmetic rebound over zero lockdown baseline
+2022    +57.17%            -18.98% (Jan)          +401.56% (Apr)          Supply debottlenecking, pent-up demand
+2023    +8.39%             -9.56% (Jan)           +16.31% (May)           Stable organic volume, BS-VI Phase 2 compliance
+2024    +12.48%            -2.40% (Feb)           +50.85% (Nov)           Strong festive momentum, rural recovery
+2025    +12.97%            -7.48% (Jan)           +22.65% (Jul)           Sustained demand, major EV & E20 expansion
+2026 9M +21.43%            +8.99% (Apr)           +43.34% (Jan)           Strong corporate & retail demand, fleet scaling
+
+
+3. FUEL-GROUP VOLUMES & MARKET SHARE EVOLUTION
+--------------------------------------------------------------------------------
+AVERAGE MARKET SHARE BY PERIOD (% OF TOTAL STATEWIDE REGISTRATIONS):
+Macro Fuel Group                2017-2018 (Historical)    2019-2022 (Pre-E20)    2023-2026 (Post-E20 Rollout)
+Petrol (Standard)               80.83%                    74.15%                 54.00%
+Petrol-E20                       0.00%                     0.00%                 15.16%
+Diesel                          12.49%                    14.88%                 11.54%
+Electric (Pure EV + BOV)         0.10%                     1.95%                  8.72%
+CNG & Bi-Fuel                    5.04%                     8.08%                  8.52%
+Hybrid (SHEV/PHEV/Mild)          0.04%                     0.02%                  1.27%
+Diesel-Hybrid                    0.50%                     0.26%                  0.04%
+Other (LPG/Ethanol/Solar/NA)     1.00%                     0.66%                  0.76%
+
+
+4. E20-LABELLED REGISTRATION TRAJECTORY & FLEET PENETRATION
+--------------------------------------------------------------------------------
+E20 Penetration Rate is computed within the pure petrol fleet:
+E20 Penetration Rate = [Petrol-E20 / (Petrol-Standard + Petrol-E20)] * 100%
+
+QUARTERLY E20 ADOPTION MILESTONES:
+Quarter Ending    Petrol-Standard    Petrol-E20    Pure Petrol Total    E20 Penetration %    Phase Description
+2023-03-31        444,549            1,313         445,862              0.29%                Initial pilot rollout
+2023-06-30        378,144            6,130         384,274              1.60%                BS-VI Phase 2 introduction
+2023-09-30        401,935            9,703         411,638              2.36%                Early OEM certification
+2023-12-31        561,978            15,464        577,442              2.68%                Trial deployment
+2024-03-31        451,409            12,965        464,374              2.79%                Pre-production tagging
+2024-06-30        462,125            14,157        476,282              2.97%                Steady baseline
+2024-09-30        395,839            11,947        407,786              2.93%                Pre-expansion plateau
+2024-12-31        654,977            20,004        674,981              2.96%                Plateaus before factory shift
+2025-03-31        470,263            20,374        490,637              4.15%                Pre-mandate transition begins
+2025-06-30        411,168            97,497        508,665              19.17%               Major OEM production switch
+2025-09-30        322,609            138,044       460,653              29.97%               Mass-market 2W & 4W compliant
+2025-12-31        422,658            373,871       796,529              46.94%               Approaching parity
+2026-03-31        200,147            446,404       646,551              69.04%               E20 dominates new registrations
+2026-06-30        165,032            395,041       560,073              70.53%               Saturation phase
+2026-09-30        161,681            399,678       561,359              71.20%               >70% pure petrol volume is E20
+
+CRITICAL ANALYTICAL CAVEAT:
+An E20-labelled registration in VAHAN indicates that the vehicle's engine was
+type-certified as E20 material-compliant at registration. It does not constitute
+proof of actual E20 fuel dispensed or consumed, as retail petrol distribution
+across pumps is determined by OMC blending infrastructure rather than vehicle
+model tags.
+
+
+5. ELECTRIC & HYBRID VEHICLE TRENDS WITH CATEGORY DEFINITIONS
+--------------------------------------------------------------------------------
+FORMAL CATEGORY DEFINITIONS IN VAHAN:
+- Pure EV: Dedicated battery electric vehicle (BEV) propelled exclusively by
+  electric motor(s) powered by an onboard traction battery pack, with external plug-in charging.
+- Electric-BOV: Battery Operated Vehicle under Rule 2(u) of CMVR. In earlier VAHAN
+  reporting, all EVs (low-speed 2W, electric 3W, early cars) were recorded under this label.
+  From 2024, newer registrations transitioned primarily to Pure EV.
+- Strong Hybrid EV (SHEV): Full hybrid containing combustion engine and electric motor
+  with battery capable of pure electric propulsion at low speeds without plug-in (self-charging).
+- Plug-in Hybrid EV (PHEV): Hybrid containing combustion engine and rechargeable battery
+  pack capable of external mains charging and extended zero-emission range.
+- Petrol-Hybrid / Petrol-E20-Hybrid / Diesel-Hybrid: Integrated Starter Generator (ISG)
+  or mild-hybrid architectures providing torque assist and regenerative braking.
+
+ANNUAL REGISTRATION VOLUMES BY ELECTRIFIED CATEGORY (UNITS):
+Fuel Group          2017     2018     2019     2020     2021     2022      2023      2024      2025      2026 (9M)
+Electric-BOV         897    4,631    7,638    5,422   19,579   50,772    70,883    74,746    32,838     14,682
+Pure EV                7        0        0        0        0   81,148   108,610   142,398   233,721    271,263
+Total EV (BEV+BOV)   904    4,631    7,638    5,422   19,579  131,920   179,493   217,144   266,559    285,945
+Strong Hybrid EV       0        0        0        0        0    1,489     7,163    11,465    15,710     12,528
+PHEV                   0        0        0        0        0        0         6        13        18          3
+Petrol-Hybrid (Mild) 136    2,333    2,752    1,228    1,173    1,218     7,025    13,061    18,089      4,581
+Petrol-E20-Hybrid      0        0        0        0        0        0         1        87     3,125     13,115
+Diesel-Hybrid     12,581   13,522    6,555    2,785    1,601    1,475     1,515     1,777     1,627      1,336
+
+
+6. STATIONARITY TESTS (ADF & KPSS)
+--------------------------------------------------------------------------------
+Hypothesis Framework:
+- Augmented Dickey-Fuller (ADF): H0 = Unit root present (Non-Stationary). Reject if p < 0.05.
+- Kwiatkowski-Phillips-Schmidt-Shin (KPSS): H0 = Series is Level Stationary. Reject if p < 0.05.
+- Series is confirmed stationary when ADF rejects H0 (p < 0.05) and KPSS fails to reject H0 (p >= 0.05).
+
+TEST RESULTS TABLE:
+Series Tested                               ADF Stat    ADF p-val    ADF Result        KPSS Stat   KPSS p-val  KPSS Result     Conclusion
+Total Registrations (Levels)                +0.500      0.9849       Non-Stationary    0.798       0.0100      Non-Stationary  Non-Stationary I(1)
+Total Registrations (First Difference)      -4.782      0.0001       Stationary        0.093       0.1000      Stationary      Confirmed I(0) Stationary
+Total Registrations (Seasonal Diff: 12m)    -5.735      0.0000       Stationary        0.880       0.0100      Non-Stationary  Seasonal Diff with Drift
+Petrol Standard (Levels)                    -0.558      0.8801       Non-Stationary    0.488       0.0443      Non-Stationary  Non-Stationary I(1)
+Petrol Standard (First Difference)          -4.236      0.0006       Stationary        0.111       0.1000      Stationary      Confirmed I(0) Stationary
+Diesel (Levels)                             -0.972      0.7632       Non-Stationary    0.427       0.0655      Stationary      Trend Non-Stationary
+Diesel (First Difference)                   -4.022      0.0013       Stationary        0.031       0.1000      Stationary      Confirmed I(0) Stationary
+Electric BOV+EV (Levels)                    +1.508      0.9976       Non-Stationary    1.641       0.0100      Non-Stationary  Deterministic / Exp Trend
+Electric BOV+EV (First Difference)          -0.571      0.8775       Non-Stationary    0.368       0.0911      Stationary      Requires 2nd Diff / Log
+
+
+7. SEASONAL DECOMPOSITION & STRUCTURAL-BREAK DIAGNOSTICS
+--------------------------------------------------------------------------------
+ADDITIVE SEASONAL FACTORS (Units impact relative to underlying trend):
+  Jan :   +31,468 units  (New calendar year registrations & deferred deliveries)
+  Feb :   -15,003 units  (Short month lull)
+  Mar :   +23,265 units  (Fiscal year-end commercial depreciation tax purchases)
+  Apr :   -23,543 units  (Start of fiscal year reset)
+  May :   -44,352 units  (Annual trough: Peak summer heat, exam period)
+  Jun :   -42,921 units  (Monsoon onset across Maharashtra)
+  Jul :   -24,536 units  (Heavy monsoon rainfall lull)
+  Aug :   -26,054 units  (Pre-festive postponement)
+  Sep :   -24,836 units  (Pitru Paksha inauspicious fortnight)
+  Oct :   +53,257 units  (Major festive surge: Navratri & Dussehra delivery peaks)
+  Nov :   +80,156 units  (Peak month of the year: Dhanteras & Diwali festival purchases)
+  Dec :   +13,098 units  (Year-end OEM clearance discounts)
+
+STRUCTURAL BREAKS & EXTREME RESIDUAL ANOMALIES (|Z-Score| > 2.5):
+Month ID    Date          Actual Count    Trend (T_t)    Seasonal (S_t)    Residual (R_t)    Z-Score    Diagnostic Event
+202003      2020-03-01    267,936         150,813        +23,265           +93,858           +2.78      Pre-lockdown panic & BS-IV fire sales
+202004      2020-04-01     21,518         149,668        -23,543          -104,608           -3.07      Strict National COVID-19 Lockdown (Closed)
+202005      2020-05-01      5,758         146,632        -44,352           -96,523           -2.83      All-time historic trough (Mobility restrictions)
+202105      2021-05-01     35,446         165,685        -44,352           -85,887           -2.52      COVID-19 Delta Wave regional curfew
+202510      2025-10-01    448,934         291,000        +53,257          +104,677           +3.09      Record festive delivery peak across 2W & SUV
+
+
+8. DATA LIMITATIONS & CATEGORY EVOLUTION
+--------------------------------------------------------------------------------
+1. Zero Missing Observations: The monthly series from 201701 to 202609 is unbroken
+   (117 continuous monthly observations). No synthetic imputation or missing-value
+   interpolation was performed or required.
+2. Category Splitting in VAHAN:
+   - PETROL(E20) was introduced in VAHAN records in February 2023. In earlier years,
+     it appeared only in isolated records (1-3 vehicles) representing prototype test certifications.
+   - Pure EV appeared as a distinct reporting code in 2022; earlier electric models
+     were categorized as ELECTRIC(BOV). For historical electric analysis, Pure EV and
+     Electric-BOV must be summed to reflect the true electric adoption path.
+3. Absence of Vehicle-Class Segregation: VAHAN fuel-type reports aggregate all vehicle
+   classes into single rows. Consequently, two-wheelers, three-wheelers, passenger cars,
+   light commercial vehicles, and heavy trucks cannot be separated.
+4. Administrative Tagging vs. Fuel Consumed: E20 figures track vehicle engine compliance
+   certificates issued at registration, not the chemical blend percentage of fuel
+   pumped from OMC retail dispensers.
+================================================================================

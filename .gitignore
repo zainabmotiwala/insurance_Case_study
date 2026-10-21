@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+dashboard/node_modules/
+.pnp
+.pnp.js
+
+# Build artifacts
+dist/
+dashboard/dist/
+build/
+.vite/
+dashboard/.vite/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# System and OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+*.log
+
+# Scratch
+2

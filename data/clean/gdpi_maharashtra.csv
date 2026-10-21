@@ -1,0 +1,133 @@
+fy_id,state,segment,premium_crore
+2014-15,Maharasthra,Fire,2049.0515
+2015-16,Maharasthra,Fire,2135.1965
+2016-17,Maharasthra,Fire,3373.7218
+2017-18,Maharasthra,Fire,2262.6639
+2018-19,Maharasthra,Fire,2526.1195
+2019-20,Maharasthra,Fire,3742.0549
+2020-21,Maharasthra,Fire,4667.1207
+2021-22,Maharasthra,Fire,5044.5697
+2022-23,Maharasthra,Fire,5505.2947
+2023-24,Maharasthra,Fire,5454.2761
+2024-25,Maharasthra,Fire,5737.4843
+2014-15,Maharasthra,Marine Cargo,572.8465
+2015-16,Maharasthra,Marine Cargo,592.328
+2016-17,Maharasthra,Marine Cargo,790.178
+2017-18,Maharasthra,Marine Cargo,592.6046
+2018-19,Maharasthra,Marine Cargo,694.2632
+2019-20,Maharasthra,Marine Cargo,819.6563
+2020-21,Maharasthra,Marine Cargo,674.8439
+2021-22,Maharasthra,Marine Cargo,898.7495
+2022-23,Maharasthra,Marine Cargo,1126.671
+2023-24,Maharasthra,Marine Cargo,1018.7129
+2024-25,Maharasthra,Marine Cargo,1150.6728
+2014-15,Maharasthra,Marine Hull,699.8101
+2015-16,Maharasthra,Marine Hull,547.2971
+2016-17,Maharasthra,Marine Hull,667.3749
+2017-18,Maharasthra,Marine Hull,419.3711
+2018-19,Maharasthra,Marine Hull,497.315
+2019-20,Maharasthra,Marine Hull,498.6545
+2020-21,Maharasthra,Marine Hull,676.4242
+2021-22,Maharasthra,Marine Hull,623.0181
+2022-23,Maharasthra,Marine Hull,820.6207
+2023-24,Maharasthra,Marine Hull,817.1051
+2024-25,Maharasthra,Marine Hull,987.0401
+2014-15,Maharasthra,Aviation,235.9446
+2015-16,Maharasthra,Aviation,183.8578
+2016-17,Maharasthra,Aviation,276.9427
+2017-18,Maharasthra,Aviation,211.177
+2018-19,Maharasthra,Aviation,265.738
+2019-20,Maharasthra,Aviation,290.5946
+2020-21,Maharasthra,Aviation,359.6552
+2021-22,Maharasthra,Aviation,324.7041
+2022-23,Maharasthra,Aviation,301.8009
+2023-24,Maharasthra,Aviation,360.9734
+2024-25,Maharasthra,Aviation,396.8476
+2014-15,Maharasthra,Engineering,494.1892
+2015-16,Maharasthra,Engineering,620.4024
+2016-17,Maharasthra,Engineering,849.0116
+2017-18,Maharasthra,Engineering,490.4616
+2018-19,Maharasthra,Engineering,578.7437
+2019-20,Maharasthra,Engineering,644.1937
+2020-21,Maharasthra,Engineering,627.9075
+2021-22,Maharasthra,Engineering,674.9597
+2022-23,Maharasthra,Engineering,824.4167
+2023-24,Maharasthra,Engineering,1041.6229
+2024-25,Maharasthra,Engineering,1390.5279
+2014-15,Maharasthra,Motor Own Damage,2158.3507
+2015-16,Maharasthra,Motor Own Damage,4148.0617
+2016-17,Maharasthra,Motor Own Damage,5375.4639
+2017-18,Maharasthra,Motor Own Damage,3870.8758
+2018-19,Maharasthra,Motor Own Damage,3713.3218
+2019-20,Maharasthra,Motor Own Damage,3931.0712
+2020-21,Maharasthra,Motor Own Damage,3530.4069
+2021-22,Maharasthra,Motor Own Damage,3780.8602
+2022-23,Maharasthra,Motor Own Damage,4559.6177
+2023-24,Maharasthra,Motor Own Damage,5017.1362
+2024-25,Maharasthra,Motor Own Damage,5923.0283
+2014-15,Maharasthra,Motor Third Party,3280.7705
+2015-16,Maharasthra,Motor Third Party,1804.0501
+2016-17,Maharasthra,Motor Third Party,6791.2647
+2017-18,Maharasthra,Motor Third Party,4181.5621
+2018-19,Maharasthra,Motor Third Party,4814.5203
+2019-20,Maharasthra,Motor Third Party,6188.8896
+2020-21,Maharasthra,Motor Third Party,5395.4741
+2021-22,Maharasthra,Motor Third Party,5575.8391
+2022-23,Maharasthra,Motor Third Party,6765.6148
+2023-24,Maharasthra,Motor Third Party,6912.0853
+2024-25,Maharasthra,Motor Third Party,8176.0923
+2014-15,Maharasthra,Liability Insurance,547.548
+2015-16,Maharasthra,Liability Insurance,610.5334
+2016-17,Maharasthra,Liability Insurance,946.6152
+2017-18,Maharasthra,Liability Insurance,794.2732
+2018-19,Maharasthra,Liability Insurance,967.2004
+2019-20,Maharasthra,Liability Insurance,1133.8889
+2020-21,Maharasthra,Liability Insurance,1264.6294
+2021-22,Maharasthra,Liability Insurance,1649.5437
+2022-23,Maharasthra,Liability Insurance,1959.8726
+2023-24,Maharasthra,Liability Insurance,1754.9233
+2024-25,Maharasthra,Liability Insurance,2257.1397
+2014-15,Maharasthra,Crop Insurance,2305.5723
+2015-16,Maharasthra,Crop Insurance,860.4029
+2016-17,Maharasthra,Crop Insurance,4681.5412
+2017-18,Maharasthra,Crop Insurance,4453.395
+2018-19,Maharasthra,Crop Insurance,5414.1865
+2019-20,Maharasthra,Crop Insurance,5151.356
+2020-21,Maharasthra,Crop Insurance,6631.8598
+2021-22,Maharasthra,Crop Insurance,5560.6765
+2022-23,Maharasthra,Crop Insurance,5833.7081
+2023-24,Maharasthra,Crop Insurance,9599.5798
+2024-25,Maharasthra,Crop Insurance,11163.3777
+2014-15,Maharasthra,Credit Insurance,529.2981
+2015-16,Maharasthra,Credit Insurance,581.2533
+2016-17,Maharasthra,Credit Insurance,569.4631
+2017-18,Maharasthra,Credit Insurance,570.4788
+2018-19,Maharasthra,Credit Insurance,543.7437
+2019-20,Maharasthra,Credit Insurance,465.7384
+2020-21,Maharasthra,Credit Insurance,473.4717
+2021-22,Maharasthra,Credit Insurance,481.1985
+2022-23,Maharasthra,Credit Insurance,540.1084
+2023-24,Maharasthra,Credit Insurance,538.9868
+2024-25,Maharasthra,Credit Insurance,640.4872
+2014-15,Maharasthra,Miscellaneous,-782.9311
+2015-16,Maharasthra,Miscellaneous,960.7575
+2016-17,Maharasthra,Miscellaneous,2896.8012
+2017-18,Maharasthra,Miscellaneous,837.7264
+2018-19,Maharasthra,Miscellaneous,978.8795
+2019-20,Maharasthra,Miscellaneous,1147.5485
+2020-21,Maharasthra,Miscellaneous,663.5044
+2021-22,Maharasthra,Miscellaneous,1583.1973
+2022-23,Maharasthra,Miscellaneous,1836.6181
+2023-24,Maharasthra,Miscellaneous,2090.717
+2024-25,Maharasthra,Miscellaneous,2264.7551
+2014-15,Maharasthra,Grand Total,12090.4502
+2015-16,Maharasthra,Grand Total,13044.1407
+2016-17,Maharasthra,Grand Total,27218.3782
+2017-18,Maharasthra,Grand Total,18684.5895
+2018-19,Maharasthra,Grand Total,20994.0317
+2019-20,Maharasthra,Grand Total,24013.6467
+2020-21,Maharasthra,Grand Total,24965.2979
+2021-22,Maharasthra,Grand Total,26197.3166
+2022-23,Maharasthra,Grand Total,30074.3436
+2023-24,Maharasthra,Grand Total,34606.1187
+2024-25,Maharasthra,Grand Total,40087.453
