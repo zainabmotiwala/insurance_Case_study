@@ -52,6 +52,26 @@ python scripts\forecast_comparison.py
 Notebooks use project-root-relative paths (`data/clean/...`, `reports/...`) —
 launch Jupyter with `Documents\ATSA` as the working directory.
 
+## Ask-the-Forecast (interactive SARIMA queries)
+
+The dashboard's **④ Income & Forecasting** tab has a question box, for example
+*"What would demand for diesel vehicles look like in Aug 2028?"*. It is backed by
+`scripts/forecast_service.py`, which refits the benchmark SARIMA specification
+(same orders and COVID exog as `forecast_comparison.py`) on all observed months
+and forecasts forward to the requested month, with 80%/95% intervals.
+
+- Vehicle types: diesel, petrol (incl. E20), electric/EV, CNG, total
+- Dates: "Aug 2028", "2028-08", "08/2028", "aug '28"; a year alone returns the Jan–Dec total
+- Maximum horizon: 120 months past the last observed month
+
+```
+python3 -m venv .venv && .venv/bin/pip install -r requirements-forecast.txt
+.venv/bin/python scripts/forecast_service.py          # API on http://127.0.0.1:8765
+cd dashboard && npm install && npm run dev            # Vite proxies /api to the service
+```
+
+CLI one-off: `.venv/bin/python scripts/forecast_service.py "diesel vehicles in August 2028"`
+
 ## Refreshing Data
 
 When new monthly VAHAN files arrive, drop them into `data\raw\` (filename must

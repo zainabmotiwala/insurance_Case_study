@@ -7,6 +7,7 @@ import {
 import type { AppData, FilterState } from '../types';
 import { fmtNum, fmtPct, fmtK } from '../hooks';
 import { InsightBox, FormulaBox, FindingBadge } from '../components/InsightBox';
+import ForecastQuery from '../components/ForecastQuery';
 
 interface Props {
   data: AppData;
@@ -81,6 +82,8 @@ export default function IncomeTab({ data, filters: _filters }: Props) {
 
   return (
     <div>
+      <ForecastQuery />
+
       {/* GDPI KPIs */}
       <div className="grid-4" style={{ marginBottom: 'var(--gap-md)' }}>
         <div className="kpi-card" style={{ '--accent-color': 'var(--blue)' } as React.CSSProperties}>

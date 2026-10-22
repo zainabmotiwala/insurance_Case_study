@@ -121,3 +121,39 @@ export const RTO_NAMES: Record<string, string> = {
 };
 
 export const ALL_RTOS = Object.keys(RTO_NAMES);
+
+// SARIMA forecast API (scripts/forecast_service.py → /api/forecast)
+export interface ForecastValue {
+  observed: boolean;
+  value: number;
+  lower80?: number;
+  upper80?: number;
+  lower95?: number;
+  upper95?: number;
+}
+
+export interface ForecastPathPoint {
+  date: string;   // YYYY-MM
+  forecast: number;
+  lower80: number;
+  upper80: number;
+  lower95: number;
+  upper95: number;
+}
+
+export interface ForecastAnswer {
+  series: string;
+  series_label: string;
+  period_label: string;
+  target_year: number;
+  target_month: number | null;   // null = calendar-year total
+  horizon_months: number;
+  last_observed: string;         // YYYY-MM
+  model: string;
+  result: ForecastValue;
+  prior_year: ForecastValue | null;
+  yoy_pct: number | null;
+  warnings: string[];
+  history: { date: string; actual: number }[];
+  path: ForecastPathPoint[];
+}
